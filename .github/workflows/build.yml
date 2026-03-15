@@ -2,14 +2,15 @@ name: Build Book
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+    tags:
+      - 'v*'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -50,14 +51,13 @@ jobs:
           path: dist/
           retention-days: 30
 
-      - name: Create Release (on push to main)
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      - name: Create Release
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: build-${{ github.run_number }}
-          name: "빌드 #${{ github.run_number }}"
+          name: "${{ github.ref_name }}"
           body: |
-            자동 빌드: ${{ github.sha }}
+            빌드: ${{ github.sha }}
           files: |
             dist/book.html
             dist/book.pdf
