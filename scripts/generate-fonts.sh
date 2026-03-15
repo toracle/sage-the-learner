@@ -55,7 +55,7 @@ if [ ! -f "$MONO_OUT" ]; then
     else
         echo "Downloading NotoMono-Regular.ttf..."
         download_if_missing \
-            "https://github.com/google/fonts/raw/main/apache/notomono/NotoMono-Regular.ttf" \
+            "https://github.com/notofonts/noto-fonts/raw/main/hinted/ttf/NotoMono/NotoMono-Regular.ttf" \
             "$MONO_OUT"
     fi
 else
