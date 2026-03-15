@@ -36,6 +36,7 @@ jobs:
             -a github-url=${{ github.server_url }}/${{ github.repository }} \
             -o dist/book.html \
             book.adoc
+          cp dist/book.html dist/index.html
 
       - name: Build PDF
         run: |
