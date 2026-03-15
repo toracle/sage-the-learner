@@ -1,0 +1,99 @@
+= 현자 세이지의 비법
+박정수
+:subtitle: 한 구도자의 지혜를 얻기 위한 학습 여정
+:doctype: book
+:lang: ko
+:encoding: utf-8
+:toc:
+:toc-title: 차례
+:toclevels: 1
+:chapter-label:
+:part-label:
+:preface-title: 프롤로그
+:appendix-caption: 부록
+:figure-caption: 그림
+:table-caption: 표
+:caution-caption: 주의
+:important-caption: 중요
+:note-caption: 참고
+:tip-caption: 팁
+:warning-caption: 경고
+:revdate: 2026-03
+:revnumber: 1.0
+:description: 현자 세이지의 학습 비법 — 한 구도자의 지혜를 얻기 위한 학습 여정
+:keywords: 학습, 메타인지, 인지과학, 교육심리, 세이지
+// HTML
+:docinfo: shared
+// PDF
+:pdf-page-size: [176mm, 250mm]
+:pdf-theme: themes/korean-theme.yml
+:pdf-fontsdir: fonts
+
+// ─── 프롤로그 ───────────────────────────────────────────
+[preface]
+include::contents/sage_prologue.adoc[leveloffset=+1]
+
+// ─── 파트 1: 기초 다지기 ────────────────────────────────
+= 파트 1: 기초 다지기
+
+include::contents/sage_part1_intro.adoc[lines=5..-1]
+
+include::contents/sage_ep_01_난해한지도.adoc[leveloffset=+1]
+
+include::contents/sage_ep_02_meaningful_stones.adoc[leveloffset=+1]
+
+include::contents/sage_ep_03.adoc[leveloffset=+1]
+
+include::contents/sage_ep_04_세이지_초보자의눈높이.adoc[leveloffset=+1]
+
+include::contents/sage_ep_05_실패의_늪에서_찾은_성찰의_빛.adoc[leveloffset=+1]
+
+include::contents/sage_ep_06.adoc[leveloffset=+1]
+
+include::contents/sage_ep_07_마음속_길을_엿보는_거울.adoc[leveloffset=+1]
+
+include::contents/sage_ep_08_동기를_찾아서.adoc[leveloffset=+1]
+
+// ─── 파트 2: 지식 확장하기 ──────────────────────────────
+= 파트 2: 지식 확장하기
+
+include::contents/sage_part2_intro.adoc[lines=5..-1]
+
+include::contents/sage_ep_09_은유의_다리.adoc[leveloffset=+1]
+
+include::contents/sage_ep_10_유추의힘.adoc[leveloffset=+1]
+
+include::contents/sage_ep_11_기억의_조각들을_되살리다.adoc[leveloffset=+1]
+
+include::contents/sage_ep_12_직관이_번개처럼_번뜩이는_순간.adoc[leveloffset=+1]
+
+include::contents/sage_ep_13_숲을_도서관에_비유하다.adoc[leveloffset=+1]
+
+// ─── 파트 3: 협업과 소통 ────────────────────────────────
+= 파트 3: 협업과 소통
+
+include::contents/sage_part3_intro.adoc[lines=5..-1]
+
+include::contents/sage_ep_14.adoc[leveloffset=+1]
+
+include::contents/sage_ep_15_중복의함정.adoc[leveloffset=+1]
+
+include::contents/sage_ep_16_흩어진_주의를_한데_모으는_기술.adoc[leveloffset=+1]
+
+include::contents/sage_ep_17_오개념의_뿌리를_찾아서.adoc[leveloffset=+1]
+
+// ─── 파트 4: 통합과 성찰 ────────────────────────────────
+= 파트 4: 통합과 성찰
+
+include::contents/sage_part4_intro.adoc[lines=5..-1]
+
+include::contents/sage_ep_18_contextual_learning.adoc[leveloffset=+1]
+
+include::contents/sage_ep_19_호기심의_불씨.adoc[leveloffset=+1]
+
+include::contents/sage_ep_20_진정한_현자.adoc[leveloffset=+1]
+
+// ─── 에필로그 ───────────────────────────────────────────
+= 에필로그: 새로운 지도를 그리는 사람들
+
+include::contents/sage_epilogue.adoc[lines=3..-1]

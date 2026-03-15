@@ -1,0 +1,152 @@
+# Korean Book Theme for 현자 세이지의 비법
+# Requires Nanum fonts in ../fonts/ directory
+# Download from: https://hangeul.naver.com/font
+extends: default
+
+font:
+  catalog:
+    NanumMyeongjo:
+      normal: NanumMyeongjo.ttf
+      bold: NanumMyeongjoBold.ttf
+      italic: NanumMyeongjoBold.ttf           # No italic variant; Bold as substitute
+      bold_italic: NanumMyeongjoBold.ttf
+    NanumGothic:
+      normal: NanumGothic.ttf
+      bold: NanumGothicBold.ttf
+      italic: NanumBarunGothic.ttf            # BarunGothic as light/italic substitute
+      bold_italic: NanumGothicBold.ttf
+    NanumGothicCoding:
+      normal: NanumGothicCoding.ttf
+      bold: NanumGothicCodingBold.ttf
+  fallbacks:
+    - NanumMyeongjo
+
+page:
+  size: [176mm, 250mm]
+  margin: [20mm, 22mm, 22mm, 25mm]   # top right bottom left
+  background_color: FFFFFF
+
+base:
+  font_family: NanumMyeongjo
+  font_size: 10.5
+  font_color: 111111
+  line_height: 1.75
+  font_style: normal
+
+vertical_rhythm: 12
+
+heading:
+  font_family: NanumGothic
+  font_style: bold
+  font_color: 111111
+  line_height: 1.2
+  margin_top: $vertical_rhythm * 1.5
+  margin_bottom: $vertical_rhythm * 0.5
+
+h1:
+  font_size: 26
+  font_color: 1A1A1A
+  margin_top: 0
+h2:
+  font_size: 18
+  font_color: 1A1A1A
+h3:
+  font_size: 14
+h4:
+  font_size: 12
+
+part:
+  font_family: NanumGothic
+  font_size: 30
+  font_style: bold
+  font_color: 1A1A1A
+  text_align: left
+
+chapter:
+  font_family: NanumGothic
+  font_style: bold
+
+prose:
+  margin_bottom: $vertical_rhythm
+
+quote:
+  font_style: italic
+  border_left_width: 3
+  border_left_color: AAAAAA
+  border_right_width: 0
+  padding: [4, 12, 4, 12]
+  margin_side: 20
+  cite_font_size: 9
+  cite_font_color: 777777
+
+codespan:
+  font_family: NanumGothicCoding
+  font_size: 9.5
+
+code:
+  font_family: NanumGothicCoding
+  font_size: 9.5
+  padding: [4, 8, 4, 8]
+  background_color: F5F5F5
+  border_color: DDDDDD
+  border_width: 0.5
+  border_radius: 2
+
+table:
+  font_family: NanumMyeongjo
+  font_size: 9.5
+  border_color: CCCCCC
+  border_width: 0.5
+  cell_padding: [4, 6]
+  head:
+    font_family: NanumGothic
+    font_style: bold
+    background_color: EFEFEF
+    font_color: 111111
+  odd_row_background_color: FFFFFF
+  even_row_background_color: FAFAFA
+  foot:
+    background_color: EFEFEF
+
+horizontal_rule:
+  border_color: CCCCCC
+  border_width: 0.5
+  margin: [6, 0]
+
+toc:
+  font_family: NanumGothic
+  font_size: 10
+  indent: 20
+  line_height: 1.6
+  dot_leader_color: AAAAAA
+  dot_leader_font_style: normal
+
+header:
+  font_family: NanumGothic
+  font_size: 8
+  font_color: 888888
+  border_bottom_color: DDDDDD
+  border_bottom_width: 0.5
+  height: 16mm
+  line_height: 1
+  recto:
+    right:
+      content: '{doctitle}'
+  verso:
+    left:
+      content: '{section-title}'
+
+footer:
+  font_family: NanumGothic
+  font_size: 9
+  font_color: 666666
+  border_top_color: DDDDDD
+  border_top_width: 0.5
+  height: 14mm
+  line_height: 1
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'

@@ -1,0 +1,82 @@
+<!-- Korean fonts via Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Gothic+Coding:wght@400;700&family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
+
+<style>
+  /* ── Typography ── */
+  body, p, li, td, th, blockquote {
+    font-family: 'Nanum Myeongjo', 'NanumMyeongjo', Georgia, serif !important;
+    line-height: 1.85;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  .sect1 > h2, .sect2 > h3,
+  #toc, #toctitle,
+  .toc, .toc-title,
+  .tableblock > thead > tr > th {
+    font-family: 'Nanum Gothic', 'NanumGothic', sans-serif !important;
+  }
+
+  code, pre, .literalblock, .listingblock {
+    font-family: 'Nanum Gothic Coding', 'NanumGothicCoding', monospace !important;
+    font-size: 0.92em;
+  }
+
+  /* ── Page layout ── */
+  body {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 1em 2em;
+    color: #1a1a1a;
+  }
+
+  /* ── Quote blocks ── */
+  .quoteblock blockquote {
+    font-style: italic;
+    border-left: 3px solid #aaa;
+    padding-left: 1em;
+    color: #444;
+  }
+
+  /* ── Tables ── */
+  table.tableblock {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+  }
+  table.tableblock th,
+  table.tableblock td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+  }
+  table.tableblock thead th {
+    background-color: #efefef;
+    font-weight: bold;
+  }
+  table.tableblock tbody tr:nth-child(even) {
+    background-color: #fafafa;
+  }
+
+  /* ── Part / chapter titles ── */
+  h1.sect0 {
+    font-size: 2em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.3em;
+    margin-top: 2em;
+  }
+
+  /* ── TOC ── */
+  #toc {
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    padding: 1em 1.5em;
+    margin-bottom: 2em;
+  }
+  #toc ul {
+    list-style: none;
+    padding-left: 1em;
+  }
+</style>
