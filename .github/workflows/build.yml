@@ -17,37 +17,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Nanum fonts
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y fonts-nanum fonts-nanum-coding
-          fc-cache -fv
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true   # reads .ruby-version, runs bundle install and caches
 
-      - name: Build HTML
-        run: |
-          mkdir -p dist
-          bundle exec asciidoctor \
-            -d book \
-            -a github-url=${{ github.server_url }}/${{ github.repository }} \
-            -o dist/book.html \
-            book.adoc
-          cp dist/book.html dist/index.html
+      - name: Install fonttools
+        run: pip3 install fonttools
 
-      - name: Build PDF
-        run: |
-          bundle exec asciidoctor-pdf \
-            -d book \
-            -a pdf-theme=themes/korean-theme.yml \
-            -a pdf-fontsdir=/usr/share/fonts/truetype/nanum \
-            -a allow-uri-read \
-            -a github-url=${{ github.server_url }}/${{ github.repository }} \
-            -o dist/book.pdf \
-            book.adoc
+      - name: Build HTML + PDF
+        run: make all
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4

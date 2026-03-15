@@ -6,7 +6,7 @@
 :encoding: utf-8
 :toc:
 :toc-title: 차례
-:toclevels: 1
+:toclevels: 2
 :chapter-label:
 :part-label:
 :preface-title: 프롤로그
@@ -27,6 +27,10 @@
 :license-url: https://creativecommons.org/licenses/by-sa/4.0/
 // HTML
 :docinfo: shared
+:imagesdir: images
+:source-highlighter: rouge
+:icons: font
+:last-update-label!:
 // PDF
 :pdf-page-size: [176mm, 250mm]
 :pdf-theme: themes/korean-theme.yml

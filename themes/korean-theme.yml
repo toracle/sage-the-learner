@@ -1,25 +1,26 @@
 # Korean Book Theme for 현자 세이지의 비법
-# Requires Nanum fonts in ../fonts/ directory
-# Download from: https://hangeul.naver.com/font
+# Requires Noto CJK fonts (fonts-noto-cjk-extra, fonts-noto-mono)
 extends: default
 
 font:
   catalog:
-    NanumMyeongjo:
-      normal: NanumMyeongjo.ttf
-      bold: NanumMyeongjoBold.ttf
-      italic: NanumMyeongjoBold.ttf           # No italic variant; Bold as substitute
-      bold_italic: NanumMyeongjoBold.ttf
-    NanumGothic:
-      normal: NanumGothic.ttf
-      bold: NanumGothicBold.ttf
-      italic: NanumBarunGothic.ttf            # BarunGothic as light/italic substitute
-      bold_italic: NanumGothicBold.ttf
-    NanumGothicCoding:
-      normal: NanumGothicCoding.ttf
-      bold: NanumGothicCodingBold.ttf
+    NotoSerifKR:
+      normal: NotoSerifKR-Regular.ttf
+      bold: NotoSerifKR-Bold.ttf
+      italic: NotoSerifKR-Regular.ttf
+      bold_italic: NotoSerifKR-Bold.ttf
+    NotoSansKR:
+      normal: NotoSansKR-Regular.ttf
+      bold: NotoSansKR-Bold.ttf
+      italic: NotoSansKR-Regular.ttf
+      bold_italic: NotoSansKR-Bold.ttf
+    NotoMono:
+      normal: NotoMono-Regular.ttf
+      bold: NotoMono-Regular.ttf
+      italic: NotoMono-Regular.ttf
+      bold_italic: NotoMono-Regular.ttf
   fallbacks:
-    - NanumMyeongjo
+    - NotoSerifKR
 
 page:
   size: [176mm, 250mm]
@@ -27,7 +28,7 @@ page:
   background_color: FFFFFF
 
 base:
-  font_family: NanumMyeongjo
+  font_family: NotoSerifKR
   font_size: 10.5
   font_color: 111111
   line_height: 1.75
@@ -36,7 +37,7 @@ base:
 vertical_rhythm: 12
 
 heading:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_style: bold
   font_color: 111111
   line_height: 1.2
@@ -56,14 +57,14 @@ h4:
   font_size: 12
 
 part:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_size: 30
   font_style: bold
   font_color: 1A1A1A
   text_align: left
 
 chapter:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_style: bold
 
 prose:
@@ -79,12 +80,78 @@ quote:
   cite_font_size: 9
   cite_font_color: 777777
 
+admonition:
+  column_rule_width: 0
+  padding: [6, 10, 6, 10]
+  label:
+    font_family: NotoSansKR
+    font_size: 8
+    font_style: bold
+
+admonition_tip:
+  background_color: F0F4FB
+  border_left_width: 3
+  border_left_color: B4A7D6
+  label:
+    font_color: B4A7D6
+
+admonition_note:
+  background_color: FFF4F3
+  border_left_width: 3
+  border_left_color: E89B8C
+  label:
+    font_color: E89B8C
+
+admonition_important:
+  background_color: F2F8F5
+  border_left_width: 3
+  border_left_color: 7A9B76
+  label:
+    font_color: 7A9B76
+
+admonition_warning:
+  background_color: FFF8E7
+  border_left_width: 3
+  border_left_color: F4A460
+  label:
+    font_color: C8860A
+
+admonition_caution:
+  background_color: FFF0F0
+  border_left_width: 3
+  border_left_color: E05252
+  label:
+    font_color: E05252
+
+example:
+  background_color: F5F1E8
+  border_width: 1
+  border_color: E89B8C
+  border_radius: 3
+  padding: [8, 10, 8, 10]
+  title:
+    font_family: NotoSansKR
+    font_size: 10
+    font_style: bold
+    font_color: 333333
+
+sidebar:
+  background_color: F2F8F5
+  border_width: 1
+  border_color: 7A9B76
+  border_radius: 3
+  padding: [8, 10, 8, 10]
+  title:
+    font_family: NotoSansKR
+    font_size: 10
+    font_style: bold
+
 codespan:
-  font_family: NanumGothicCoding
+  font_family: NotoMono
   font_size: 9.5
 
 code:
-  font_family: NanumGothicCoding
+  font_family: NotoMono
   font_size: 9.5
   padding: [4, 8, 4, 8]
   background_color: F5F5F5
@@ -93,13 +160,13 @@ code:
   border_radius: 2
 
 table:
-  font_family: NanumMyeongjo
+  font_family: NotoSerifKR
   font_size: 9.5
   border_color: CCCCCC
   border_width: 0.5
   cell_padding: [4, 6]
   head:
-    font_family: NanumGothic
+    font_family: NotoSansKR
     font_style: bold
     background_color: EFEFEF
     font_color: 111111
@@ -114,7 +181,7 @@ horizontal_rule:
   margin: [6, 0]
 
 toc:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_size: 10
   indent: 20
   line_height: 1.6
@@ -122,7 +189,7 @@ toc:
   dot_leader_font_style: normal
 
 header:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_size: 8
   font_color: 888888
   border_bottom_color: DDDDDD
@@ -131,13 +198,13 @@ header:
   line_height: 1
   recto:
     right:
-      content: '{doctitle}'
+      content: '{section-title}'
   verso:
     left:
-      content: '{section-title}'
+      content: '{doctitle}'
 
 footer:
-  font_family: NanumGothic
+  font_family: NotoSansKR
   font_size: 9
   font_color: 666666
   border_top_color: DDDDDD
