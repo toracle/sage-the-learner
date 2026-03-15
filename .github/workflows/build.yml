@@ -11,6 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -31,6 +37,7 @@ jobs:
           mkdir -p dist
           bundle exec asciidoctor \
             -d book \
+            -a github-url=${{ github.server_url }}/${{ github.repository }} \
             -o dist/book.html \
             book.adoc
 
@@ -41,6 +48,7 @@ jobs:
             -a pdf-theme=themes/korean-theme.yml \
             -a pdf-fontsdir=/usr/share/fonts/truetype/nanum \
             -a allow-uri-read \
+            -a github-url=${{ github.server_url }}/${{ github.repository }} \
             -o dist/book.pdf \
             book.adoc
 
@@ -63,3 +71,12 @@ jobs:
             dist/book.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        id: deploy-pages
+        uses: actions/deploy-pages@v4

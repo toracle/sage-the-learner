@@ -44,6 +44,10 @@
 
 image::https://licensebuttons.net/l/by-sa/4.0/88x31.png[CC BY-SA 4.0, link="{license-url}"]
 
+ifdef::github-url[]
+이 책은 오픈 소스로 공개되어 있습니다. 오탈자 신고, 내용 제안, 번역 기여 등은 link:{github-url}[GitHub 저장소]에서 환영합니다.
+endif::[]
+
 // ─── 프롤로그 ───────────────────────────────────────────
 [preface]
 include::contents/sage_prologue.adoc[leveloffset=+1]
