@@ -39,6 +39,7 @@ jobs:
             -d book \
             -a pdf-theme=themes/korean-theme.yml \
             -a pdf-fontsdir=/usr/share/fonts/truetype/nanum \
+            -a allow-uri-read \
             -o dist/book.pdf \
             book.adoc
 

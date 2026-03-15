@@ -81,6 +81,7 @@ build_pdf() {
     -d book \
     -a pdf-theme=themes/korean-theme.yml \
     -a pdf-fontsdir="$FONTS_DIR" \
+    -a allow-uri-read \
     -o "$DIST/book.pdf" \
     book.adoc
   echo "✅  PDF  → $DIST/book.pdf"

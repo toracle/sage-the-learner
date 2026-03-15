@@ -22,12 +22,27 @@
 :revnumber: 1.0
 :description: 현자 세이지의 학습 비법 — 한 구도자의 지혜를 얻기 위한 학습 여정
 :keywords: 학습, 메타인지, 인지과학, 교육심리, 세이지
+:copyright: Copyright (C) 2026 박정수
+:license: CC BY-SA 4.0
+:license-url: https://creativecommons.org/licenses/by-sa/4.0/
 // HTML
 :docinfo: shared
 // PDF
 :pdf-page-size: [176mm, 250mm]
 :pdf-theme: themes/korean-theme.yml
 :pdf-fontsdir: fonts
+
+// ─── 저작권 ─────────────────────────────────────────────
+[colophon]
+== 저작권
+
+{copyright}
+
+이 저작물은 *크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이선스* (CC BY-SA 4.0) 에 따라 이용할 수 있습니다.
+
+이 라이선스의 사본을 보려면 {license-url} 을 방문하세요.
+
+image::https://licensebuttons.net/l/by-sa/4.0/88x31.png[CC BY-SA 4.0, link="{license-url}"]
 
 // ─── 프롤로그 ───────────────────────────────────────────
 [preface]
