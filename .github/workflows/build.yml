@@ -14,10 +14,6 @@ jobs:
       pages: write
       id-token: write
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy-pages.outputs.page_url }}
-
     steps:
       - uses: actions/checkout@v4
 
