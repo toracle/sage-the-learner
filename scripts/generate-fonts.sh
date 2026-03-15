@@ -45,17 +45,21 @@ download_if_missing \
 instantiate_if_missing "$SANS_VAR" "$FONTS_DIR/NotoSansKR-Regular.ttf" 400
 instantiate_if_missing "$SANS_VAR" "$FONTS_DIR/NotoSansKR-Bold.ttf"    700
 
-# NotoMono
+# NotoMono (use NotoSansMono as source — same visual, confirmed available)
 MONO_OUT="$FONTS_DIR/NotoMono-Regular.ttf"
 MONO_SYSTEM="/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf"
+MONO_SYSTEM2="/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf"
 if [ ! -f "$MONO_OUT" ]; then
     if [ -f "$MONO_SYSTEM" ]; then
         echo "Copying NotoMono-Regular.ttf from system..."
         cp "$MONO_SYSTEM" "$MONO_OUT"
+    elif [ -f "$MONO_SYSTEM2" ]; then
+        echo "Copying NotoSansMono-Regular.ttf from system as NotoMono-Regular.ttf..."
+        cp "$MONO_SYSTEM2" "$MONO_OUT"
     else
         echo "Downloading NotoMono-Regular.ttf..."
         download_if_missing \
-            "https://github.com/notofonts/noto-fonts/raw/main/hinted/ttf/NotoMono/NotoMono-Regular.ttf" \
+            "https://github.com/notofonts/noto-fonts/raw/main/hinted/ttf/NotoSansMono/NotoSansMono-Regular.ttf" \
             "$MONO_OUT"
     fi
 else
