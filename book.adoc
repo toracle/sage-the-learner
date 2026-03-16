@@ -6,7 +6,7 @@
 :encoding: utf-8
 :toc:
 :toc-title: 차례
-:toclevels: 2
+:toclevels: 1
 :chapter-label:
 :part-label:
 :preface-title: 프롤로그
