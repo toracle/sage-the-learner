@@ -20,9 +20,11 @@ html:
 	  -a stylesdir=themes -a stylesheet=html-theme.css \
 	  -a toc=left \
 	  -a icons=font -a source-highlighter=rouge \
-	  -o $(DIST)/index.html book.adoc
+	  -o $(DIST)/book.html book.adoc
 	@cp themes/html-theme.css $(DIST)/
-	@echo "→ HTML: $(DIST)/index.html"
+	@cp site/index.html $(DIST)/index.html
+	@echo "→ HTML: $(DIST)/book.html"
+	@echo "→ Index: $(DIST)/index.html"
 
 pdf: $(FONT_STAMP)
 	@mkdir -p $(DIST)
