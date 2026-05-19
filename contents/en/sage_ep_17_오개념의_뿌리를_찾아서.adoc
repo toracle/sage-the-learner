@@ -1,0 +1,208 @@
+= Episode 17: Tracing the Roots of Misconception
+
+[quote]
+____
+"More dangerous than not knowing something is being certain that a wrong thing is right."
+____
+
+'''
+
+== Sage's Story
+
+At the eastern edge of the forest stood an old wooden signboard.
+
+_"Dangerous beasts abound in this forest. Do not enter under any circumstances."_
+
+In front of that signboard, Sage found a scholar standing ramrod straight, a thick record book clasped to his chest. By the white beard and the bundle of worn scrolls, this was clearly a man who had studied for many long years. His name was Dogma.
+
+"Sir, might you be thinking of entering this forest?" Sage asked.
+
+Scholar Dogma shook his head firmly.
+
+"Absolutely not. This forest has nothing but beasts. I have known this for twenty years. I am the one who put up that signboard."
+
+He spoke in a voice full of confidence. Sage looked at the signboard for a moment, then opened his mouth carefully.
+
+"Sir, may I ask you one thing? How did you come to know that this forest has nothing but dangerous beasts?"
+
+Scholar Dogma paused for a moment, then worked his lips.
+
+"Well… twenty years ago I was passing near this forest and heard a tremendous roar from inside. A sound fearsome enough to shake the ground. I ran immediately. What else could that be but a beast?"
+
+"Did you go to the place the sound was coming from? Did you actually see a beast with your own eyes?"
+
+"…No, that I did not. There was no courage to run inside just from the sound."
+
+"I see. And after that — did you look for any other information about this forest? Stories from people who live nearby, records from forest explorers, for instance?"
+
+Scholar Dogma fell into a much longer silence this time. His eyes wavered.
+
+"…I don't think I looked, really. I already knew the answer."
+
+Sage continued gently:
+
+"Sir, your knowledge began with that one day twenty years ago — that single moment. That experience itself was certainly real. But I would like to ask you one question from there. Was that day's experience sufficient evidence to reach the conclusion that 'this entire forest has nothing but beasts'?"
+
+The scholar's face slowly hardened. He tightened and loosened his grip on the record book.
+
+"…Did I arrive at a conclusion on the basis of a single sound?"
+
+Sage nodded quietly.
+
+"You may have believed it for too long without verifying it. And that belief may have been filtering all the information that came in afterward. When a passing traveler said 'I saw beautiful flowers in this forest,' didn't you think 'the beast is trying to deceive'?"
+
+Scholar Dogma's eyes went wide, as if struck on the back of the head.
+
+"…That's right. I thought that. Even when flowers were in bloom I said 'it's a trap,' and when birds were singing I said 'they're crying for fear of the beast.'"
+
+The two men stepped together into the forest. Between the rustling leaves, a small squirrel scampered, and from far away the sound of water came. At last they reached a small meadow bathed in sunlight.
+
+"Ah, a place like this…"
+
+Scholar Dogma was briefly at a loss for words. Then slowly he opened his record book and picked up his brush.
+
+"I thought I had known this forest well for twenty years. But in fact I only knew one experience."
+
+Sage smiled.
+
+"Recognizing that — that is the bravest step taken in this forest today."
+
+'''
+
+== Conceptual Explanation
+
+=== What Is a Misconception?
+
+A *misconception* is not simply "not knowing something."
+
+A misconception is *a state in which incorrect prior knowledge has solidified as if it were fact*. Someone who does not know will receive new information openly. But a person with a misconception already "knows the answer," so when new information arrives they *distort* it to fit their existing belief.
+
+Learning psychologists explain it like this:
+
+[quote]
+____
+New information piles atop existing schema (mental frameworks). If schema has been formed incorrectly, new knowledge is also twisted by it.
+____
+
+Scholar Dogma was exactly that. After the schema "forest = place with only dangerous beasts" had formed, flowers and birdsong were all interpreted to match that schema. This is the frightening thing about misconception.
+
+'''
+
+=== Where Do Misconceptions Come From?
+
+The seeds of misconception usually come from three places.
+
+*1. A single intense experience*
+Like Scholar Dogma, when a single emotionally intense event is overgeneralized. "I failed once so I have no talent in this area," "I was betrayed once so no one can be trusted" — these are all this type.
+
+*2. Incomplete analogy*
+When the simile or example used when first learning a concept was too simple. For example, students who understand electric current only as "the flow of water" often form serious misconceptions when learning about resistance and parallel circuits.
+
+*3. Unverified acceptance of authority*
+Knowledge accepted as "my teacher said so" or "it appeared in a famous book" blocks the opportunity for verification in the first place.
+
+'''
+
+=== Why Misconceptions Do Not Correct Themselves
+
+What makes misconceptions troublesome is their *self-reinforcing* characteristic.
+
+Our cognitive system tends to easily accept information that confirms existing beliefs, while unconsciously ignoring or reinterpreting information that contradicts them. This is called *confirmation bias*.
+
+Just as Scholar Dogma reinterpreted even beautiful flowers in the forest as "a trap," a person with a misconception twists information that contradicts the misconception to maintain it.
+
+'''
+
+=== Conceptual Change Theory: Uprooting Misconceptions
+
+In 1982, Posner, Strike, Hewson, and Gertzog asked a fundamental question in the field of science education: _"What conditions are actually needed for a student to change from an incorrect concept to a correct one?"_
+
+Their research was organized as *Conceptual Change Theory*. According to this theory, misconceptions are not corrected simply by providing new information. Only when learners internally and for themselves meet the following four conditions does an existing concept begin to shake and a new concept take root.
+
+*1. Dissatisfaction*: There must be dissatisfaction that the existing concept cannot explain some problem or phenomenon. Scholar Dogma felt for the first time, through Sage's questions, the discomfort of "did I arrive at a conclusion on the basis of a single sound?" This is the seed of dissatisfaction.
+
+*2. Intelligibility*: The new concept must be understandable. Even if a correct concept is right, if it cannot be understood it cannot be accepted. Sage presented the alternative "the forest may have many kinds of life" to Scholar Dogma slowly, in the form of questions.
+
+*3. Plausibility*: The new concept must feel plausible — feel believable. Hearing only "that might be possible" does not easily generate plausibility. At the very moment Scholar Dogma set foot inside the forest and saw the squirrel and heard the sound of water, he felt for the first time "this is something that could actually be real."
+
+*4. Fruitfulness*: There must be a sense that the new concept explains more than the existing one. The concept "the forest has many kinds of life" lets one understand flowers, squirrels, and the sound of water all within one framework. It has far richer explanatory power than the old concept of "everything is a trap."
+
+When all four of these conditions are met, the misconception finally becomes ready to be replaced at its roots.
+
+That Sage took Scholar Dogma directly into the forest was exactly what created the third stage (conflict experience). Dissatisfaction and intelligibility alone were not sufficient. Direct experience opened plausibility and fruitfulness simultaneously.
+
+[cols="1,1,1", options="header"]
+|===
+| Comparison | Episode 5 (The Schema Trap) | Episode 17 (Misconception)
+| Nature of the problem | Not conscious of one's assumptions | Believing a wrong certainty as truth
+| Solution | Asking "on what assumptions are you standing?" | Dissatisfaction with existing concept → conflict experience needed
+| Speed of correction | Possible with a single moment of reflection | Requires a 4-stage process (takes time)
+|===
+
+'''
+
+=== Metacognition: The Key That Pierces Misconception
+
+In Episode 5 we learned how metacognition — the ability to think about one's own thinking — helps us avoid the schema trap. Misconception is rooted far deeper than that. Simply asking "what assumptions am I making?" is not enough.
+
+Scholar Dogma *already knew* what his assumption was. He was convinced "there are beasts in the forest," and he did not hide that it was his assumption. The problem was not failing to know that the assumption existed — it was having closed the very possibility that the assumption might be wrong.
+
+Sage's questions carefully opened this closed possibility:
+
+[cols="1,1", options="header"]
+|===
+| Sage's Question | Metacognitive Function
+| "How did you come to know this?" | Tracing the source of knowledge
+| "Did you verify it directly?" | Checking the strength of the evidence
+| "Did you look for other information afterward?" | Checking whether knowledge is biased
+| "Was it sufficient evidence to reach that conclusion?" | Examining the validity of the reasoning process
+|===
+
+Correcting a misconception does not happen by simply saying "you're wrong." On the contrary, it only reinforces defensive reactions. Only when people trace for themselves the roots of their own thinking and discover for themselves that those roots are shaking does the schema become ready to be reconstructed.
+
+'''
+
+=== The 4 Stages of Misconception Correction
+
+Learning science research says misconception correction is most effective when it occurs in this sequence:
+
+[source]
+----
+1. Recognition
+   Explicitly bring out "what is it that I currently believe?"
+
+2. Evidence Check
+   "Where did this belief come from? Is that evidence sufficient?"
+
+3. Cognitive Conflict
+   Come face to face with actual experience or evidence that does not match the existing belief
+   → Scholar Dogma stepping one foot inside the forest
+
+4. Restructuring
+   Construct and articulate a new schema directly
+   → "This forest has many kinds of life"
+----
+
+Of these, the *direct experience* of stage 3 is the most powerful. Persuasion through words alone has limits. Where possible, designing an actual experience in which the misconception is shaken is far more effective educationally.
+
+'''
+
+=== Application in Reality
+
+Misconceptions are not formed only in academic study. They form continuously in the workplace, in relationships, and in our understanding of ourselves.
+
+Periodically ask yourself:
+
+* _"Why do I think this is true?"_
+* _"When and from what experience did this thought arise?"_
+* _"Have I since seen information that refutes this? How did I react when I did?"_
+
+These questions are uncomfortable. Sometimes they give the feeling that something believed for a long time is shaking. But just as Scholar Dogma opened his record book in the forest meadow, that very shaking is the moment new understanding begins.
+
+'''
+
+[quote]
+____
+*One-line summary* +
+Misconception is hidden more deeply than not knowing. Tracing the roots of one's own beliefs — that is the true beginning of learning.
+____

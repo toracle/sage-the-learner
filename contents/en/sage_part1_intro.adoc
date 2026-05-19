@@ -1,0 +1,48 @@
+= Part 1: Building the Foundation
+
+== The Principles of Individual Learning
+
+[quote]
+____
+"First learn to build a house inside your own mind. Only then can you bring the knowledge of others inside and make it your own."
+____
+
+'''
+
+The Sage did not begin teaching Sage right away.
+
+He took him into the forest instead.
+
+He handed him a map and told him to find his own way. He showed him an unfamiliar herb and told him to memorize its name. He left Sage in bewildering situations and quietly watched. Every time Sage wandered, grew tired, and fell into confusion, the Sage would at last sit beside him.
+
+"What did you feel?"
+
+That question was where each lesson began.
+
+'''
+
+The eight stories in Part 1 touch on the most fundamental questions of learning.
+
+_How can we see something complex in a simple way?_
+_Why do we forget so quickly even when we study hard?_
+_How do we keep from falling apart in the face of failure?_
+_Where does the desire to learn come from?_
+
+These questions are not dazzling. But without answers to them, even the finest knowledge becomes a tower built on sand.
+
+The first thing the Sage taught Sage was not a technique. It was a way of looking. How to direct one's eyes toward knowledge, and how to meet the moment of learning. This part is the record of that first awakening.
+
+'''
+
+[cols="1,3", options="header"]
+|===
+| Episode | Core Principle
+| Episode 1 | When facing complexity, find the landmarks first
+| Episode 2 | Only what is meaningfully encoded stays for long
+| Episode 3 | Real skill grows from practice paired with feedback
+| Episode 4 | The language of an expert and the perspective of a beginner are different
+| Episode 5 | Failure is the raw material of reflection
+| Episode 6 | Exploration begins with forming a hypothesis
+| Episode 7 | The eye that watches one's own thinking guides learning
+| Episode 8 | The reason you want to learn determines the quality of your learning
+|===

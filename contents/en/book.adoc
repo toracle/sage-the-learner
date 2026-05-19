@@ -1,0 +1,122 @@
+= Sage's Secret: A Seeker's Journey to Wisdom in Learning
+Jeongsoo Park
+:subtitle: A Seeker's Journey to Acquire Wisdom in Learning
+:doctype: book
+:lang: en
+:encoding: utf-8
+:toc:
+:toc-title: Contents
+:toclevels: 1
+:chapter-label:
+:part-label:
+:preface-title: Preface
+:appendix-caption: Appendix
+:figure-caption: Figure
+:table-caption: Table
+:caution-caption: Caution
+:important-caption: Important
+:note-caption: Note
+:tip-caption: Tip
+:warning-caption: Warning
+:revdate: 2026-03
+:revnumber: 1.0
+:description: Sage's Secret — A Seeker's Journey to Acquire Wisdom in Learning
+:keywords: learning, metacognition, cognitive science, educational psychology, sage
+:copyright: Copyright (C) 2026 Jeongsoo Park
+:license: CC BY-SA 4.0
+:license-url: https://creativecommons.org/licenses/by-sa/4.0/
+// HTML
+:docinfo: shared
+:imagesdir: images
+:source-highlighter: rouge
+:icons: font
+:last-update-label!:
+// PDF
+:pdf-page-size: [176mm, 250mm]
+:pdf-theme: themes/korean-theme.yml
+:pdf-fontsdir: fonts
+
+// ─── Copyright ───────────────────────────────────────────
+[colophon]
+== Copyright
+
+{copyright}
+
+This work is licensed under a *Creative Commons Attribution-ShareAlike 4.0 International License* (CC BY-SA 4.0).
+
+To view a copy of this license, visit {license-url}.
+
+image::https://licensebuttons.net/l/by-sa/4.0/88x31.png[CC BY-SA 4.0, link="{license-url}"]
+
+ifdef::github-url[]
+This book is open source. Reports of typos, content suggestions, and translation contributions are welcome at the link:{github-url}[GitHub repository].
+endif::[]
+
+// ─── Prologue ───────────────────────────────────────────
+[preface]
+include::sage_prologue.adoc[leveloffset=+1]
+
+// ─── Part 1: Building the Foundation ────────────────────
+= Part 1: Building the Foundation
+
+include::sage_part1_intro.adoc[lines=5..-1]
+
+include::sage_ep_01_난해한지도.adoc[leveloffset=+1]
+
+include::sage_ep_02_meaningful_stones.adoc[leveloffset=+1]
+
+include::sage_ep_03.adoc[leveloffset=+1]
+
+include::sage_ep_04_세이지_초보자의눈높이.adoc[leveloffset=+1]
+
+include::sage_ep_05_실패의_늪에서_찾은_성찰의_빛.adoc[leveloffset=+1]
+
+include::sage_ep_06.adoc[leveloffset=+1]
+
+include::sage_ep_07_마음속_길을_엿보는_거울.adoc[leveloffset=+1]
+
+include::sage_ep_08_동기를_찾아서.adoc[leveloffset=+1]
+
+// ─── Part 2: Expanding Knowledge ────────────────────────
+= Part 2: Expanding Knowledge
+
+include::sage_part2_intro.adoc[lines=5..-1]
+
+include::sage_ep_09_은유의_다리.adoc[leveloffset=+1]
+
+include::sage_ep_10_유추의힘.adoc[leveloffset=+1]
+
+include::sage_ep_11_기억의_조각들을_되살리다.adoc[leveloffset=+1]
+
+include::sage_ep_12_직관이_번개처럼_번뜩이는_순간.adoc[leveloffset=+1]
+
+include::sage_ep_13_숲을_도서관에_비유하다.adoc[leveloffset=+1]
+
+// ─── Part 3: Collaboration and Communication ────────────
+= Part 3: Collaboration and Communication
+
+include::sage_part3_intro.adoc[lines=5..-1]
+
+include::sage_ep_14.adoc[leveloffset=+1]
+
+include::sage_ep_15_중복의함정.adoc[leveloffset=+1]
+
+include::sage_ep_16_흩어진_주의를_한데_모으는_기술.adoc[leveloffset=+1]
+
+include::sage_ep_17_오개념의_뿌리를_찾아서.adoc[leveloffset=+1]
+
+// ─── Part 4: Integration and Reflection ─────────────────
+= Part 4: Integration and Reflection
+
+include::sage_part4_intro.adoc[lines=5..-1]
+
+include::sage_ep_18_contextual_learning.adoc[leveloffset=+1]
+
+include::sage_ep_19_호기심의_불씨.adoc[leveloffset=+1]
+
+include::sage_ep_20_진정한_현자.adoc[leveloffset=+1]
+
+// ─── Epilogue ───────────────────────────────────────────
+= Epilogue: Those Who Draw New Maps
+
+include::sage_epilogue.adoc[lines=3..-1]

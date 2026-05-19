@@ -1,0 +1,150 @@
+= Episode 7: The Mirror That Glimpses the Path Within the Mind
+
+[quote]
+____
+"Only those who ask in the other person's language can see the path inside the other person's mind."
+____
+
+'''
+
+== Lea's Confession
+
+That evening, a small figure appeared at the foot of the Mountain of Contemplation.
+
+It was Lea, a novice — the most diligent among Sage's students, but today she was different. Heavy shadows lay under her eyes and her shoulders drooped like lead.
+
+"Teacher Sage," Lea began. "My mind is tangled and I can't do anything. When I open a book the words don't come in, and when I look at a problem I don't even know where to start."
+
+Sage was about to reach for advice, then stopped himself. _The Sage always said: first see what the other person is going through with their own eyes._
+
+"Lea," Sage said quietly. "You said your mind is tangled… what does that tangle look like?"
+
+Lea closed her eyes for a moment. It was an odd question, but strangely she found herself wanting to answer.
+
+"Like a ball of yarn. Threads of many colors all knotted together, and when you pull one strand, the others get even more tangled."
+
+"I see." Sage took Lea's very words and returned them to her. "That ball of tangled yarn… where is it right now? Whereabouts in your mind?"
+
+Lea pressed her fingers to her brow. "Here. Just behind my eyes. Clumped heavily."
+
+"That clump that's heavy and bunched — what would it need to unravel?"
+
+A long silence passed. Lea's eyes shifted slowly. Sage did not hurry.
+
+"…The courage to cut the threads."
+
+Even Lea seemed surprised. The moment the words left her mouth, she felt something that had been caught begin to come loose.
+
+"I was trying to connect too many things at once. Some concepts don't need to be connected right now, but I was clinging to them by force. I needed to let them go, but letting go felt like giving up, so I was afraid."
+
+Sage smiled. He had not analyzed or judged a single word, yet Lea had reached the heart of the problem herself.
+
+'''
+
+That night, Sage went to the Sage and told him the story.
+
+"Lea found her own answer. I was surprised. I hadn't offered any interpretation at all."
+
+The Sage nodded.
+
+"That is precisely the core of it. Asking in the other person's language without inserting your own interpretation. People already carry the seed of the answer inside them. What we must do is help them find where that seed lies themselves — not plant a seed for them."
+
+Sage sat and thought for a long time. _Lea's ball of yarn. I did not tell her what the yarn was. I only asked what it 'looked like,' 'where it was,' and 'what it needed.'_
+
+Those three questions became the mirror that lit up the path inside Lea's mind.
+
+'''
+
+== Understanding the Concept: Clean Language and Metacognition
+
+=== What Is Clean Language?
+
+Clean Language is a communication technique developed in the 1980s by psychotherapist *David Grove*. Its core idea is a single one:
+
+[quote]
+____
+*Ask using the other person's own language — not your own.*
+____
+
+When we listen to someone, we usually translate their words into our own language immediately.
+"My mind is tangled" → _'Ah, that means confused. They can't organize themselves.'_
+
+At that moment of "translation," important information from the other person's experience is lost. Clean Language refuses this translation. It takes "tangled" as it is and explores within its world together.
+
+'''
+
+=== Core Question Patterns
+
+Clean Language has twelve basic questions, but the three most commonly used are as follows:
+
+[cols="1,1", options="header"]
+|===
+| Question Type | Example
+| *Attribute exploration* | "What is that [the person's expression] like?"
+| *Location exploration* | "Where is that [the person's expression]?"
+| *Condition exploration* | "What would that [the person's expression] need for [it to change]?"
+|===
+
+The questions Sage asked Lea were exactly these three.
+
+'''
+
+=== Why Does It Work? — Connection to Metacognition
+
+*Metacognition* is "the ability to think about one's own thinking." Simply put, it is grasping for yourself: "What do I know, and what don't I know?"
+
+Clean Language questions activate metacognition naturally.
+
+[source]
+----
+Typical situation:
+"My mind is tangled" → vague frustration → no action possible
+
+After Clean Language:
+"My mind is tangled"
+  → "What does that look like?" → The ball-of-yarn image becomes concrete
+  → "Where is it?" → The location of the problem is recognized
+  → "What does it need?" → A solution is discovered by the person themselves
+----
+
+When a vague sensation is given form through language and imagery, the brain begins to recognize it as something it can handle. *When what was invisible becomes visible, it becomes something that can be solved.*
+
+'''
+
+=== Real-World Application: When Can You Use It?
+
+Clean Language is not a tool only for the therapy room. You can use it immediately in the following situations:
+
+* *When a team member says they are stuck*: "You said stuck — what does that feeling of being stuck look like?"
+* *When a learner says they don't understand*: "That part you said you don't understand — where does it start to get blurry?"
+* *When you yourself can't organize your thinking*: Write questions to yourself in a notebook: "What does this knotted feeling look like?"
+
+'''
+
+=== A Caution: Staying "Clean"
+
+[cols="1,1", options="header"]
+|===
+| Things to Avoid | Reason
+| "So you mean ~?" | Inserting my own interpretation makes it no longer clean
+| "Usually that's because ~" | Covering over the other person's exploration with my knowledge
+| Offering a quick solution | Removing the other person's opportunity to discover it themselves
+|===
+
+The paradox of Clean Language is this: *The less you say, the more the other person discovers.*
+
+'''
+
+=== Sage's Note
+
+[quote]
+____
+Today I taught Lea nothing. +
+Yet Lea saw her own problem, named it, and found her own solution. +
+Teaching and asking questions — which was the greater help? +
+Perhaps the highest teaching is one where the other person does not even feel they have been taught.
+____
+
+'''
+
+_In the next episode, Sage explores the relationship between emotion and motivation → *Episode 8: The Shadow of Emotion — In Search of Motivation*_

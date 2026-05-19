@@ -1,0 +1,158 @@
+= Episode 2: Meaningless Leaves, Meaningful Stones
+
+[quote]
+____
+"One who tries to remember everything ends up remembering nothing. The eye that can pick out what is worth remembering — that is where true wisdom begins."
+____
+
+'''
+
+== The Test in the Forest
+
+The next morning, the Sage led Sage deep into the forest.
+
+"Today I have a simple task for you. Walk around the forest once, then come back and tell me everything you saw."
+
+Sage was brimming with eagerness. _'Everything? Good — I must miss nothing.'_
+
+He walked with wide eyes. Seven oak leaves, moss in three places, a pile of stones over there, branches fallen in an X shape over there, three kinds of birdsong, fallen leaves on the ground mixed with yellow and brown…
+
+An hour later, Sage came back with a face already drained.
+
+"Sage, there is too much. The more I try to remember, the more what I saw earlier slips away. It feels like my head is completely full."
+
+The Sage nodded quietly.
+
+"Just as I expected. This time, go again — but with one condition."
+
+He led Sage to a small spring at the forest's edge. Around the spring, stones of various sizes were arranged in a semicircle. And scattered all around them were leaves blown in by the wind.
+
+"Find out _why_ those stones are there. Don't worry about the leaves."
+
+Sage tilted his head and set off again.
+
+'''
+
+At first his eyes kept drifting toward the leaves. _Might that yellow leaf mean something? What about that branch?_ But remembering the Sage's words, he forced his gaze back to the stones.
+
+Something strange happened.
+
+_'Wait. Those stones… they're placed along the direction the spring water flows.'_ Sage crouched down and looked closely. The stones were not simply scattered. They were redirecting the flow of water to channel it toward the roots of a certain tree. And what was more, the open direction of the semicircle pointed east — like a compass needle.
+
+_'Someone placed these deliberately. These are not just stones… they're a kind of language for showing the way!'_
+
+Sage jumped to his feet and ran to the Sage.
+
+"I see it now! The stones are clues that hold the forest's secrets! They're a kind of map — redirecting the water's flow and showing directions!"
+
+The Sage smiled.
+
+"Yes. But isn't it strange? There were far more leaves than stones, yet in your memory right now the stones will be far clearer."
+
+Sage paused. The Sage was right. The position and direction of each stone appeared in his mind's eye like a picture. By contrast, the hundreds of leaves gave only a vague sense of having been there.
+
+"If you try to remember every leaf, you end up remembering nothing," the Sage said. "What matters is discovering meaning and engraving it deep in your mind. Even if that process feels like hard work, that very difficulty is proof that your mind is doing its job properly."
+
+That day, for the first time, Sage felt that "trying to remember" and "trying to understand" were completely different things.
+
+'''
+
+== Understanding Through Concepts
+
+=== Cognitive Load Theory
+
+Psychologist John Sweller demonstrated that our working memory has a *strict limit* on the amount of information it can process at one time. This was precisely the phenomenon Sage experienced when he tried to remember everything in the forest and felt his head jam full.
+
+There are three kinds of cognitive load.
+
+[cols="1,1,1", options="header"]
+|===
+| Type | Description | Forest Analogy
+| *Intrinsic Load* | Load arising from the complexity of the concept itself | Working out the pattern of the stone arrangement
+| *Extraneous Load* | Load caused by unnecessary distractions to learning | Leaves scattered everywhere
+| *Germane Load* | Load used to create meaning and make connections | The process of asking "Why are these here?" and finding the answer
+|===
+
+In Sage's first attempt, the problem was not that there was too much extraneous load (the leaves). The real problem was that *there was no capacity left for germane load*.
+
+[quote]
+____
+*Core principle:* Reduce extraneous load and increase germane load, and the quality of learning rises.
+____
+
+'''
+
+=== Mental Representation
+
+Psychologist Anders Ericsson argued that the decisive difference between experts and novices lies in the *quality of their mental representations*.
+
+A mental representation is not simply the storage of information — it is *a structure of knowledge organized by patterns and meaning*.
+
+* A chess beginner remembers the positions of 32 pieces separately.
+* A chess master recognizes "this is a Sicilian Defence variation" and perceives it as a single pattern.
+
+When Sage perceived the stones as "a guidance system that redirects water flow," he compressed individual stone information into one meaningful structure. This is the *birth of a good mental representation*.
+
+[source]
+----
+[Poor mental representation]
+Stone①(position A) + Stone②(position B) + Stone③(position C) + ... → 7 separate pieces of information
+
+[Good mental representation]
+"A semicircular arrangement guiding water flow eastward" → 1 meaningful structure
+----
+
+'''
+
+=== Meaningful Learning vs. Rote Memorization
+
+Educational psychologist David Ausubel defined genuine learning this way:
+
+[quote]
+____
+"Learning occurs only when new information is *meaningfully connected* to the learner's existing knowledge structure."
+____
+
+Rote memorization does not connect new information to existing knowledge. It is therefore quickly forgotten and cannot be applied to other situations. Meaningful learning, on the other hand, *begins with the question "Why?"*.
+
+[cols="1,1,1", options="header"]
+|===
+| | Rote Memorization | Meaningful Learning
+| *Process* | Repetition → Storage | Question → Connection → Structuring
+| *Characteristic* | Quickly acquired, quickly forgotten | Slowly acquired, long retained
+| *Application* | Works only in identical forms | Can be transferred to new situations
+| *Analogy* | Piling up leaves | Reading the pattern of the stone arrangement
+|===
+
+'''
+
+=== Practical Application: How to Tell Leaves from Stones
+
+To find out which information is a "stone," ask these three questions.
+
+*1. The Why Question*
+_"Why does this concept work this way?"_
+If you can explain a rule or principle, it's a stone. If you can only say "that's just how it is," it's a leaf.
+
+*2. The Connection Question*
+_"What does this resemble that I already know?"_
+If you can find a link to existing knowledge, you can form a mental representation.
+
+*3. The Removal Question*
+_"Would removing this information prevent me from understanding the rest?"_
+If you can do without it, it's a leaf. If the structure collapses without it, it's a stone.
+
+'''
+
+=== One-Line Summary
+
+[quote]
+____
+*Do not try to remember. Try to understand. What is truly understood is remembered by itself.*
+____
+
+What Sage learned is not a simple memorization strategy. It is *a shift in attitude toward information*. Moving away from the anxiety of "I must memorize everything," and toward the habit of asking "What does this mean?" — that is what builds the eyes that can truly tell leaves from stones.
+
+'''
+
+_In the next episode, Sage goes one step further from finding the stones, and learns how to *make those stones his own*._

@@ -1,0 +1,143 @@
+= Episode 19: The Spark of Curiosity — The Force That Drives Growth
+
+[quote]
+____
+"Curiosity has not gone out. It is merely buried beneath the ashes."
+____
+
+'''
+
+One late autumn afternoon, Sage was walking at the foot of the Mountain of Contemplation when he came upon a strange sight. A young scholar sat beside a large pile of thick books, not a single one opened, staring only at the distant mountains.
+
+"What are you thinking about?" Sage asked carefully.
+
+The scholar let out a long sigh. "I feel as if there is nothing left to learn. I've read books, attended lectures, taken notes… and yet study just feels like an obligation. There used to be a time when my heart leaped every time I learned something new."
+
+Sage sat quietly beside him on a nearby rock. Then asked softly: "When did you first feel that leaping?"
+
+The scholar's eyes flickered for a moment. "When I was a child. When I first learned about the constellations. The moment I found out that the stars in the night sky form the shape of a lion — the night sky looked completely different."
+
+"That moment," Sage echoed the scholar's words back to him. "You said the night sky looked completely different — what did that feel like?"
+
+The scholar paused as if hearing his own words again. "…It was like a door that had been invisible suddenly opened."
+
+"Where might that 'open door' be now?"
+
+The scholar was silent for a long time. Then slowly pointed to his own chest. "…I think it's here. But it's been closed so long, I seem to have forgotten there was even a door."
+
+"Would you like to open that door again?"
+
+"…Yes." The scholar's voice changed slightly.
+
+"In that case," Sage continued gently, "what is the smallest single step you could take right now to open that door?"
+
+The scholar thought for a long while. Then from among the dust-covered pile of books he carefully drew out one worn astronomy book. "…Reopening this one?"
+
+Sage smiled and rose. "The spark was never out after all. It was just buried beneath the ashes."
+
+'''
+
+== Understanding the Concepts
+
+What Sage did in this short conversation seems like nothing much from the outside. He offered no advice and presented no solutions. Yet the scholar found for himself the "open door," and found for himself the "first step." How was this possible?
+
+'''
+
+=== 1. Curiosity: The Flame of the Drive to Explore
+
+Curiosity is an inner desire to direct attention and energy toward something new or uncertain. Psychologist George Loewenstein explains this through *information gap theory*: curiosity is triggered when a gap opens between what I know and what I want to know.
+
+But when learning continues for a long time, this gap seems to have narrowed — or else it has grown so wide as to feel overwhelming. The scholar's feeling of "there is nothing left to learn" was not a state of knowledge saturation; it was a state in which *the gap between himself and knowledge had become invisible*.
+
+Curiosity researchers Daniel Berlyne and Loewenstein distinguish two types of curiosity:
+
+[cols="1,2,2", options="header"]
+|===
+| Type | Description | Characteristic
+| *Perceptual curiosity* | Curiosity that reflexively pulls toward new and unfamiliar stimuli | Triggered intensely by things encountered for the first time, but fades quickly once familiar
+| *Epistemic curiosity* | A deep drive to fill gaps in knowledge | Actually grows larger with learning, and develops alongside expertise
+|===
+
+Here is an interesting paradox: *the more knowledge one accumulates, perceptual curiosity decreases — but epistemic curiosity deepens*. Beginners easily feel interest because everything is new, but that interest stays at the surface. Experts, who may appear indifferent on the outside, experience intense drive to explore in the areas where they "know what they don't know."
+
+The scholar's feeling that "I no longer have curiosity" was not curiosity disappearing — it was *a transition period between perceptual curiosity and epistemic curiosity*. This period feels like an emptiness where the excitement of novelty has diminished, but it is in fact the threshold for moving toward deeper exploration.
+
+The way to reignite curiosity is to make the gap felt again. Not a grand goal — just a single question you want to know one more thing about is enough.
+
+'''
+
+=== 2. Why Does Curiosity Disappear? (From the Perspective of Self-Determination Theory)
+
+When the scholar said "study feels like an obligation," that was not simply fatigue. *Self-Determination Theory (SDT)*, proposed by Edward Deci and Richard Ryan in 1985, explains this phenomenon clearly.
+
+According to SDT, for intrinsic motivation to blossom, three basic psychological needs must be met.
+
+[cols="1,2,2", options="header"]
+|===
+| Basic Need | Description | Example in a Learning Situation
+| *Autonomy* | The feeling that you are choosing and acting on your own | The sense that you are studying because you want to
+| *Competence* | The feeling of efficacy that you can accomplish the task | Confirmation that you are understanding and growing
+| *Relatedness* | The feeling of being connected to meaningful others | Peers who learn together, a sincere teacher
+|===
+
+When even one of these three needs is persistently frustrated, *intrinsic motivation is gradually replaced by extrinsic motivation*. What the scholar experienced was exactly this. Exam preparation, mandatory lecture attendance, curricula others have set. When these forms of external regulation pile up, learning degrades into "something done because I have to." This is called *crowding out of intrinsic motivation*.
+
+[cols="1,1", options="header"]
+|===
+| Conditions for Intrinsic Motivation to Come Alive | Conditions for Intrinsic Motivation to Disappear
+| When you can choose your own topic | When you follow goals others have set
+| When you can feel yourself growing little by little | When only failure repeats and helplessness accumulates
+| When there is someone you are genuinely connected to | When surveillance and evaluation are the main relationship
+| When you can feel the meaning of why you are learning | When scores or rewards are the only reason
+|===
+
+The reason Sage offered questions rather than advice was to respect the scholar's *autonomy*. The moment you say "you should do this," it becomes yet another form of external regulation. Opening a space for him to find the answer himself — that was the way to revive the buried spark.
+
+'''
+
+=== 3. Clean Language
+
+When Sage asked "where might that 'open door' be now?", he used the scholar's very word *'door'* as it was. This is *Clean Language*.
+
+The core of this technique, developed by psychotherapist David Grove, is a single one:
+
+[quote]
+____
+*Follow the other person's words — especially their metaphors — without 'contaminating' them.*
+____
+
+In normal conversation we translate the other person's expression into our own language. "An open door? Ah, so you mean learning motivation." Like that. Then the conversation moves into my frame.
+
+Clean Language does the opposite. It returns the word the other person used while encouraging exploration. People then discover deeper meaning for themselves within the metaphor they used. Just as the scholar, upon facing his own expression "an open door" again, said "I think it's here, in my chest."
+
+Frequently used question patterns in Clean Language:
+
+* "What is that [the person's expression] like?"
+* "Where is that [the person's expression]?"
+* "When that [the person's expression] is there, what happens?"
+
+'''
+
+Like self-efficacy (covered in Episode 8), the key to reviving curiosity is also "the smallest success experience." The reason Sage asked "what is the smallest single step you could take right now?" is the same. The small action the scholar chose himself — reopening the astronomy book — when he manages to do just that one thing, that experience becomes the seed of the belief "I can do this again." The "opening this one book" Sage suggested is exactly that seed.
+
+'''
+
+=== Summary: Three Keys to Reigniting Curiosity
+
+Three things can be drawn from the conversation between Sage and the scholar.
+
+. *Curiosity is not "something that has gone" but "something that is transforming."* — The fading of perceptual curiosity may be a transition period deepening into epistemic curiosity. The spark beneath the ashes is not out — it is buried more deeply.
+
+. *When external regulation piles up, intrinsic curiosity is buried.* — As Self-Determination Theory says, when autonomy, competence, and relatedness are frustrated, learning becomes obligation. To revive the spark, the space for self-choosing must first be opened.
+
+. *The smallest single step begins the greatest change.* — Clean Language questions allow the answer to come from within the other person. The small action chosen from that answer — one instance of "I can do this again" — becomes the seed of belief.
+
+[quote]
+____
+When you need to find a spark, don't try to blow wind on it. +
+First carry a single question that knows how to look into the ashes.
+____
+
+'''
+
+_Next episode 20: The true sage who reads the world beyond the forest →_

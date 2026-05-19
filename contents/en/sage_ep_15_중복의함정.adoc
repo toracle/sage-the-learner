@@ -1,0 +1,148 @@
+= Episode 15: The Trap of Redundancy — Efficient Information Delivery
+
+[quote]
+____
+"Saying the same thing twice is not kindness — it is noise."
+____
+
+'''
+
+== Sage's Story
+
+Now that Sage had absorbed the knowledge of the forest into his very body, he wanted to teach others.
+
+"I should share these precious things I have learned."
+
+Sage stayed up for several nights carefully making a map. Which fork to turn left at, which hill to cross to find the meadow of medicinal herbs, where the dangerous bog was — everything was written densely on the map in words.
+
+But Sage had one worry.
+
+"Won't it be dry with just writing? I should explain more kindly."
+
+So Sage decided to hand out the map while simultaneously reading aloud the text written on it.
+
+_"Look here. 'If you go left at the northern fork, there are three oak trees. Past the oaks the path goes downhill…'"_
+
+The learners read the map with their eyes while listening to Sage's voice with their ears. Sage thought it was doubly kind teaching.
+
+But something strange happened. After the lesson, people held their heads in their hands.
+
+"Why am I so tired? I clearly heard everything, but I remember nothing."
+
+"I kept missing the words while looking at the map, and missing the map while listening to the words… how am I supposed to do this?"
+
+Bewildered, Sage went to the Sage.
+
+The Sage looked at Sage's map for a long while, then said quietly:
+
+"You thought you were being kind, but you were actually piling twice the burden on the learners' minds."
+
+"Twice? If I give information twice, won't it be doubly certain?"
+
+The Sage shook his head.
+
+"A person's mind is not a warehouse. When the same thing arrives from two places at the same time, it gets tangled up figuring out which one to process. Eyes are trying to read the words on the map, and ears are following your voice — and since they're both 'the same words,' they collide in the mind."
+
+Sage nodded, but asked again:
+
+"Then what should I do? Should I just give the map and say nothing at all?"
+
+"That would be a different kind of waste. Two channels — eyes and ears — exist, but using only one is half-measure teaching."
+
+The Sage began drawing with a stick on the ground. He represented the curves of the forest path, the hills, and the location of the bog in pictures and shapes. There were no words.
+
+"Now I will explain in words. You see this curved line? In summer, this path is thick with morning fog, so you must trust the feeling of the soles of your feet rather than your sight. And this black dot — this is the bog. In the dry season it dries out and looks like ordinary ground, but the moment you step on it you sink up to your ankles."
+
+The learners' eyes lit up. The diagram through the eyes, the explanation through the ears — different information coming through different channels naturally merged into one in their minds.
+
+When the lesson ended, people said:
+
+"Ah, my head is clear today. I feel like I remember everything."
+
+Sage finally understood.
+
+_"Send the same words through two channels and collision happens. Split different words between two channels and they become a force."_
+
+'''
+
+== Understanding the Concepts
+
+=== Two Traps and One Opportunity in Cognitive Load Theory
+
+The confusion Sage experienced, and the solution he learned from the Sage, can be explained by two core principles of *Cognitive Load Theory*.
+
+'''
+
+=== The Redundancy Effect
+
+*"Giving the same information in multiple formats at the same time actually backfires."*
+
+The working memory in our brain is severely limited in the amount of information it can process at once. When Sage read the words on the map aloud, learners' brains fell into this situation:
+
+[cols="1,1", options="header"]
+|===
+| Channel | Information Received
+| Visual (eyes) | "At the northern fork go left…" (text)
+| Auditory (ears) | "At the northern fork go left…" (voice)
+|===
+
+When two channels process identical content simultaneously, the brain also expends energy deciding "which of the two is the correct information?" This is the moment *Extraneous Cognitive Load* increases unnecessarily.
+
+[quote]
+____
+*Core principle:* If text already explains sufficiently, do not repeat the same content aloud.
+____
+
+The redundancy effect is a more common mistake than you might think.
+
+* A presenter who reads every word on the slide aloud
+* A developer who writes what the code already says in the comments (`i = i + 1  # adds 1 to i`)
+* A report that lists the numbers from the graph right beside the graph in text
+
+'''
+
+=== The Modality Effect
+
+*"When vision and hearing each carry different information, the brain's processing capacity doubles."*
+
+Human working memory consists largely of two independent channels (Baddeley's dual-coding model):
+
+* *Visuospatial sketchpad*: Processes pictures, shapes, and spatial information
+* *Phonological loop*: Processes language and sound information
+
+These two channels can operate *simultaneously and independently*. When the Sage showed the route as a picture while supplementing in words the contextual meaning the picture couldn't carry, the two channels each digested different information and collaborated.
+
+[cols="1,1", options="header"]
+|===
+| Channel | Information Received
+| Visual (eyes) | Structure and spatial relationships of forest paths (diagram)
+| Auditory (ears) | The danger and seasonal context of each point (voice)
+|===
+
+The brain integrates these two into one rich understanding. In the same amount of time, it has processed twice the information.
+
+'''
+
+=== How to Apply This in Practice
+
+[cols="1,1,1", options="header"]
+|===
+| Situation | Redundant (Avoid) | Using Modality (Recommended)
+| Presentation | Reading every word on the slide | Key diagrams on slides; background and meaning explained verbally
+| Tutorial video | Reading the code on screen aloud | Screen shows code running; voice explains "why it was done this way"
+| Document | Repeating graph figures as text below the graph | Graph shows visual pattern; text shows interpretation and implications
+| Educational materials | Writing a long caption explaining what the picture already shows | Picture expresses structure; caption adds only context the picture can't carry
+|===
+
+'''
+
+=== One-Line Summary
+
+[quote]
+____
+Redundancy is not kindness. Make *vision responsible for structure and hearing responsible for meaning*. Only then do the two channels in the learner's mind run together.
+____
+
+'''
+
+_In the next episode, Sage learns the technique for gathering scattered attention into one place._

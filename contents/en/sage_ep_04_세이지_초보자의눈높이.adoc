@@ -1,0 +1,137 @@
+= Episode 4: The Expert Who Explains the Path, the Beginner's Eye Level
+
+[quote]
+____
+"An expert's knowledge is treasure — but without seeing through a beginner's eyes, that treasure is a safe with the lock closed."
+____
+
+'''
+
+== Sage Discovers That the Obvious Is Not Obvious
+
+Having fully mastered the forest map, Sage could now walk any path without the slightest hesitation. Telling apart thick oaks from slender birches was something he could do with his eyes closed, and reading the direction of moss to find north, south, east, and west had become as natural as breathing.
+
+Then one day, a group of young people came from the village to find Sage.
+
+"Sage, we too wish to learn the forest. Please teach us."
+
+Sage nodded willingly. Without a moment's pause, he began pouring out everything he knew.
+
+"Look carefully. This area's north-facing slope and south-facing slope have different moisture conditions, so the vegetation structures differ. The ridge over there marks the watershed divide, and from this point three paths begin — the gradient and soil composition of each path differ subtly, so you need to adjust your pace. Also, at this time of year the morning fog disrupts your sense of direction, so you need to read both the moss and the tree rings together—"
+
+As the explanation went on, a fog settled over the faces of the young people. They exchanged glances, and at last one of them carefully opened his mouth.
+
+"Sage… this is clearly easy for you, but for us the very first words are unknown. We don't know what a north-facing slope is, or what a watershed is, or where to even begin understanding."
+
+Sage stopped. _What did I explain wrong?_ He had clearly said everything he knew, yet it seemed the others had absorbed nothing. He felt frustrated and confused.
+
+'''
+
+That evening, Sage climbed to find the Sage on the Mountain of Contemplation.
+
+"Sage, I explained the forest without leaving anything out. Yet the beginners understood nothing at all. Why is that?"
+
+The Sage set down his teacup slowly and asked:
+
+"Sage, do you remember when you first entered the forest?"
+
+Sage thought for a moment. The memory was hazy. There must have been such a time, but the fear and bewilderment of that moment were hard to recall.
+
+"…It is faint. That was quite long ago."
+
+The Sage nodded.
+
+"That is precisely the problem. Right now you think of 'north-facing slope' and 'watershed' as naturally as 'sky' or 'tree.' But to a beginner, those words are a foreign language they have never seen before. Your refined knowledge is densely linked within you, but to someone without that network of connections, it is like pieces with no connections between them, all pouring in at once."
+
+"Then what should I do?"
+
+"Take a look inside a beginner's mind. What they know and what they don't. Imagine first where they get stuck. An expert explains what he _knows_, but a good teacher understands first what the other person does _not_ know."
+
+'''
+
+The next day, Sage met the young people again. This time it was different.
+
+He asked first: "Have you ever climbed the hill behind your neighborhood? You noticed the sun set in the west that day? Finding direction in the forest starts exactly there."
+
+The young people's eyes lit up. Starting from what they already knew, new ideas began to connect.
+
+"Let's start with the big picture first. The smaller paths are fine to learn later."
+
+Sage now understood. Knowing a great deal and being able to convey that knowledge well were entirely different abilities.
+
+'''
+
+== Reading the Concepts
+
+=== The Expertise Reversal Effect
+
+What is obvious to an expert is not obvious to a beginner. This is not simply a matter of empathy — it arises from *differences in cognitive structure*.
+
+Through countless experiences, an expert's knowledge has hardened into *schema*: a mental map in which many concepts are bound together as a single chunk. For example, to an experienced developer the phrase "asynchronous processing" is a single word, but within it the concepts of event loops, callbacks, promises, and threads are all integrated. The expert draws on all of it in an instant.
+
+A beginner, on the other hand, encounters each of those pieces for the first time. What the expert explains in a single word arrives to the beginner as ten new concepts at once. This is where *cognitive load* erupts.
+
+The problem is that the more expert someone becomes, the more they *forget* what it was like to be a beginner. This is the *Expertise Reversal Effect*. The more detailed an expert's explanation, the harder it actually feels to the learner. This was exactly the trap Sage fell into.
+
+[quote]
+____
+*Core principle:* A detailed expert explanation becomes *noise* to a beginner, not information. Information that does not match the learner's level does not help understanding — it actually depletes cognitive resources.
+____
+
+'''
+
+=== Theory of Mind (ToM)
+
+What Sage truly learned was not merely a technique for transmitting knowledge. He learned the ability to *understand what is inside another person's mind* — Theory of Mind (ToM).
+
+Theory of Mind is the cognitive ability to understand that *"other people have knowledge, beliefs, and intentions different from my own."* Children typically begin to develop this ability around age four. But paradoxically, when people become experts, this ability can falter. Their own perspective becomes so natural that it becomes difficult to imagine a different perspective.
+
+In the context of communication and education, Theory of Mind works like this:
+
+[cols="1,1", options="header"]
+|===
+| Without Theory of Mind | With Theory of Mind
+| "I explain what I know" | "I first determine what the other person doesn't know"
+| "What is easy by my standard I explain easily" | "What is difficult by the other person's standard I break down step by step"
+| "Why can't they understand?" | "Where have they gotten stuck?"
+|===
+
+When Sage began with "the direction the sun set behind your neighborhood hill," it was not simply friendliness. It was the practice of Theory of Mind — starting from the beginner's *prior knowledge*.
+
+'''
+
+=== Adaptive Instruction
+
+Combining the Expertise Reversal Effect and Theory of Mind produces a practical teaching strategy known as *Adaptive Instruction*. The core is simple:
+
+*Vary the density and structure of explanation according to the learner's level.*
+
+For beginners:
+
+* *Big picture first* — Provide overall context before details.
+* *Start from what they already know* — Connect unfamiliar concepts to familiar ones.
+* *One thing at a time* — Do not pile up too many concepts at once.
+
+For more advanced learners:
+
+* *Details and exceptions* — They have schema, so deeper information is helpful.
+* *Room for autonomous exploration* — Reduce explanation and let them discover for themselves.
+
+[quote]
+____
+*Real-world application:* When a new team member joins, during code review, when explaining technology to a client — this principle works the same in all these cases. Ask first: "How much do you already know?"
+____
+
+'''
+
+=== In Closing
+
+From that day forward, before explaining the forest, Sage always asked first.
+
+_"Where are you standing right now?"_
+
+Knowing a great deal is the starting point. Bringing that knowledge out from the other person's eye level is the real ability. If there is something an expert can learn from a beginner, it is precisely that *forgotten sense of not knowing where to begin*.
+
+'''
+
+_Next episode: Episode 5 — The Light of Reflection Found in the Swamp of Failure_

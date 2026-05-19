@@ -1,0 +1,183 @@
+= Sage's Secret — Episode 14
+
+== The Wisdom of Collaboration: Merging Two Mental Maps
+
+[quote]
+____
+"One person's map has the paths. Another person's map has the forest. Only by combining them does the journey become complete."
+____
+
+'''
+
+== Sage and Dowon's Exploration of the Uncharted Forest
+
+It was a morning thick with mist when the Sage summoned Sage.
+
+"Today you will not be alone."
+
+The Sage pointed to an unfamiliar figure standing nearby. The name was *Dowon*. He was a scholar from another village — like Sage, a seeker of knowledge.
+
+"Explore together the 'Uncharted Forest' beyond that ridge and bring back a complete map."
+
+The Sage's words were simple, but Sage felt a strange unease. _'Wouldn't it be faster on my own?'_
+
+'''
+
+=== Two Different Eyes
+
+The moment they entered the forest, the two men's approaches collided.
+
+Sage *moved by following the terrain*. The direction waterways flowed, the rise and fall of hills, the positions of large rocks. He was someone who read the forest in broad strokes.
+
+Dowon, by contrast, stopped to *examine grasses and trees*. Where certain plants clustered together, the direction moss grew, the moisture of the soil. He was someone who read the forest through small clues.
+
+By evening, the two men drew out the maps they had each made.
+
+The moment they saw each other's maps, both frowned. They had explored the same forest, yet the two maps looked like completely different things.
+
+"Where is this 'large rock point'? It's not on my map."
+"Of course it's there. But why is there no wetland marking here on your map? It was clearly there."
+
+Voices began to rise. Sage was frustrated. _'My map is correct — why can't this person understand?'_
+
+'''
+
+=== The Sage's Advice: "Explain Your Maps to Each Other"
+
+The next morning, the two men still in awkward silence went to the Sage.
+
+The Sage spread the two maps side by side and smiled gently.
+
+"You argued. I expected as much."
+"The maps were too different," Sage said.
+"The difference is not the problem. *The problem is that you have not yet learned to read each other's maps.* Here, try this: Dowon will explain his map to Sage, and Sage will explain his map to Dowon. Each of you explain from beginning to end — why you drew that path, what you saw."
+
+It was a simple suggestion, but the two men sat down half-skeptically.
+
+'''
+
+=== What Became Visible Through Explaining
+
+Dowon spread his map first.
+
+"This wetland area — the reeds were bent in an unusual way. Signs that animals have passed through repeatedly. So this area is actually *a safe passage*."
+
+Sage stopped short. _Ah. That's the area I had marked as "boggy, avoid."_
+
+Now it was Sage's turn to explain his map.
+
+"This ridge path I've marked — because the water flows east from here, if you always go downhill in this direction there's a valley. Even if you get lost, find this ridge and you can come back."
+
+Dowon's eyes widened. _So that's why the plant distribution was divided by the ridge. I hadn't known the reason._
+
+As the explanations continued, something strange happened.
+
+In the process of *putting their own map into words*, each man began to see gaps that even they themselves had not noticed. Dowon admitted "I actually rushed through this area so I didn't see it properly," and Sage said "this path here was an assumption I made — I didn't actually verify it."
+
+And as they listened to the other's explanation, *layers of the forest they had not seen* were revealed.
+
+'''
+
+=== When Two Maps Became One
+
+The two men entering the forest again were different.
+
+Sage now read the terrain while borrowing Dowon's eye. _If plant communities are clustered here, this must be a point where water gathers._ Dowon was the same. _The distribution of flora and fauna will be divided by this ridge._
+
+Once their mental maps were translated into each other's language, the two men could see more of the same forest.
+
+Three days later, the Sage looked at the map the two men had completed and nodded.
+
+"This is a map that neither of you could have made alone."
+
+Only then did Sage understand. _Being together was not simply dividing up the work. It was borrowing each other's eyes._
+
+'''
+
+== Understanding the Concepts
+
+=== 1. Collaborative Cognitive Load Theory (CCLT)
+
+Our brain has a *limit* to the amount of information it can process at once. This is called *Cognitive Load*. No matter how brilliant a person, complex and vast problems are difficult to handle alone.
+
+Collaborative Cognitive Load Theory explains the principle by which collaboration overcomes this limit.
+
+*The core idea is this:*
+
+[quote]
+____
+When multiple people cooperate, they can distribute each other's cognitive load. As a result, a group can solve complex tasks that individuals could not handle alone.
+____
+
+Looking at Sage and Dowon's case:
+
+[cols="1,1,1", options="header"]
+|===
+| | When Alone | When Together
+| Sage | Focused on terrain information, missed ecological information | Handles terrain → cognitive resources freed to integrate Dowon's information
+| Dowon | Focused on ecological information, missed spatial structure | Handles ecology → connects with Sage's spatial information
+| Result | Each with an incomplete map | Complete map with two layers integrated
+|===
+
+What is important is that it was not simply *dividing up the work*. In the process of integrating each other's results, the two men created *knowledge that was more than 1+1*. This is why collaboration differs from mere division of labor.
+
+[quote]
+____
+*Practical application*: When dividing roles in a team project, assign people to 'domains they are good at,' but always separately reserve *time to explain to each other and integrate*. Division of labor without explanation is efficiency, but collaboration with explanation is synergy.
+____
+
+'''
+
+=== 2. Theory of Mind (ToM)
+
+The reason Sage felt frustrated when he first saw Dowon's map was: _'I saw it this way — why does this person see it differently?'_ This was not a question of ignorance — it was a question of *perspective*.
+
+In Episode 4, we learned that Theory of Mind is essential for an expert to understand a beginner's eye level. In teaching, ToM operates in one direction — the expert tries to understand the learner's state of mind. In collaboration it is different. ToM must operate *bidirectionally*.
+
+[cols="1,1,1", options="header"]
+|===
+| Type of Relationship | Direction of ToM | Goal
+| Teaching (Ep. 4) | Expert → Beginner | Adjust to the beginner's level of understanding
+| Collaborative (Ep. 14) | Bidirectional (Sage ↔ Dowon) | Recognize difference in each other's schema + integrate
+|===
+
+Believing that your map is "the only map" means the other person's map will only ever look like "the wrong map." When ToM operates bidirectionally, these kinds of questions become possible:
+
+* "How did that person see this problem?"
+* "How do I need to listen to understand through that person's way of explaining?"
+* "Something I take for granted might not be visible to that person."
+
+This is why the Sage said "*explain* your maps to each other." The act of explaining simultaneously forces two things:
+
+. *Articulating one's own schema explicitly* → Discovering for yourself where your understanding has gaps
+. *Listening while inferring the other's schema* → ToM activated, the other's perspective received
+
+What is interesting is that the very act of explaining one's map to the other also activates the explainer's own ToM. Just as Sage recognized in the process of articulating why he had chosen his routes that "this is actually an assumption I made."
+
+The most common mistake in collaboration is the illusion that "the other person understands it the same way I do." Theory of Mind is the ability that shatters this illusion.
+
+[quote]
+____
+*Practical application*: When opinions clash with a team member, first ask yourself: "In what context did this person come to think this way?" It is likely they started from a different schema, not that they are wrong.
+____
+
+'''
+
+=== Core Summary
+
+[source]
+----
+The real value of collaboration is not dividing the work —
+it lies in bringing out each other's mental maps in language
+and drawing them again together.
+
+CCLT: Distributes cognitive load so that complexity
+      impossible for one person becomes manageable.
+ToM:  Acknowledging that the other person's schema differs from
+      one's own is the starting point of collaboration.
+----
+
+[quote]
+____
+In the next episode, Sage meets more scholars. But the more people there are, the more information begins to be missed. Why does yet another trap exist in collaboration?
+____

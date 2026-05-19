@@ -1,0 +1,145 @@
+= Episode 6: Exploring a New Forest — The Birth of a Hypothesis
+
+[quote]
+____
+"When you don't know the answer, the bravest thing you can do is choose the most plausible reason and start walking."
+____
+
+'''
+
+== Story: Sage Reads an Unfamiliar Forest
+
+After spending a few days at the Sage's hermitage, Sage received an unannounced task one early morning.
+
+"Today, cross the eastern ridge and find the spring inside that forest beyond. No map, no guidance."
+
+Sage was flustered. It was a forest he had never entered. He did not even know where to begin.
+
+The moment he stepped inside the forest entrance, he felt a familiar impulse. _Just pick a direction and start walking._ But he stopped himself. That would be relying on chance — not "coming to know" anything.
+
+Sage looked down at the ground. And slowly began to look around.
+
+'''
+
+There were footprints. They were different sizes. Some were deep, some shallow. He crouched for a long while and studied them.
+
+_Deep means weight was pressed down. A heavy animal… or one that was running fast._
+
+Walking a little farther, he found a branch broken at waist height — not pressed down from above, but snapped sideways, as if something had brushed through. And a few leaves were overturned, their pale undersides facing up.
+
+Sage stopped and turned over these clues one by one in his mind.
+
+_The footprints are repeated at regular intervals. No signs of panicked movement. These belong to an animal that regularly travels a fixed route. The way the branch was pushed aside suggests something with broad shoulders — a deer or a boar, perhaps. And the paths animals travel regularly usually lead to water._
+
+A sentence formed in his mind.
+
+*"These footprints belong to an animal that travels to and from water."*
+
+It was not perfect certainty. But it was the most plausible explanation he could construct from the clues at hand. Sage decided to follow the tracks.
+
+'''
+
+Perhaps fifteen minutes passed. A point appeared where the light through the trees broke differently. He sensed the air holding moisture. And there it was — a small spring.
+
+Sage crouched in front of the spring and sat staring blankly for some time. Half delight, half bewilderment.
+
+_I knew nothing. How did I find it?_
+
+Then the Sage's voice came from behind him. He had been following along the whole time.
+
+"Found it. How did you know the way?"
+
+Sage explained — the footprints, the branch, and the hypothesis he had formed.
+
+The Sage nodded.
+
+"There is a name for what you just did. It is called abduction. It is the mode of reasoning that looks at given clues and selects the explanation that best accounts for them. Not a perfect proof — but choosing 'the most plausible explanation at this moment.'"
+
+"But couldn't I have been wrong?"
+
+"Of course. If your hypothesis had been wrong, you would have found something other than the spring. Then you would gather new clues and form a new hypothesis. What matters is that you started walking. Without abduction, you would still be standing at the forest entrance."
+
+On the way back, Sage kept thinking. Before he had found the spring, he had known this forest only as "a place full of trees, unknown." But now the forest was different. The footprints were speaking to him, the broken branches were pointing directions, the overturned leaves were telling the time. The same forest — but his mental map had changed completely.
+
+'''
+
+== Concept: Abduction — A Mode of Reasoning That Creates New Knowledge
+
+=== What Distinguishes Deduction, Induction, and Abduction?
+
+The logic we learn in school is mainly of two kinds.
+
+[cols="1,1,1", options="header"]
+|===
+| Mode | Structure | Characteristic
+| *Deduction* | Rule + Fact → Conclusion | If the premises are true, the conclusion is necessarily true. Does not create new knowledge.
+| *Induction* | Cases → General rule | Finds patterns. Still stays within the range of observation.
+| *Abduction* | Result + Rule → Hypothesis | "What is the most plausible reason for this?" Creates new knowledge.
+|===
+
+This third mode of reasoning — abduction, organized by philosopher Charles Sanders Peirce — is the logic that *lets us move forward even when faced with things we don't know*.
+
+What Sage did was exactly this. He combined the footprints (result) with the implicit rule "animals travel to and from water" to produce the hypothesis (cause) that "a water source lies this way."
+
+'''
+
+=== Why Is Abduction Important in Learning?
+
+When learning a new domain, we always stand before *incomplete information*. If we wait until we know everything before trying to understand — we never begin.
+
+Abduction is the key that breaks this deadlock.
+
+* *When you encounter an unknown concept:* "This word seems to mean 'learning through failure' from context" → keep reading → verify.
+* *When exploring a new codebase:* "Judging by this function name and parameter structure, it looks like cache management logic" → trace it → if correct, understanding deepens; if wrong, you gain new clues.
+* *When reading an unfamiliar organizational culture:* "A lot of silence in meetings suggests this team prefers documents over spoken discussion" → keep observing.
+
+All of these are abduction. Without perfect understanding, *forming the best explanation from available clues, and then moving forward while verifying it*.
+
+'''
+
+=== Abduction Creates New Schema
+
+In cognitive psychology, schema is the internal structure through which we understand the world — a kind of "mental map."
+
+What makes abduction special is that it does not merely fill an existing schema; it *generates a new schema*.
+
+Sage's schema at the forest entrance: _"Forest = trees + paths + unknown"_
+Sage's schema after finding the spring: _"Forest = footprints (direction of movement) + branches (height and width of passage) + leaves (time markers) + location of water"_
+
+Looking at the same forest, he can now see far more. This is the *substance of learning* — not that new information has piled up, but that the very way of reading the world has changed.
+
+'''
+
+=== How to Use Abduction in Practice
+
+*Step 1: List the clues before you explicitly*
+Say aloud or write down "What am I observing right now?" If you leave clues only in your head, they blur together.
+
+*Step 2: Choose the most plausible explanation*
+Form a sentence that begins with "Could this possibly be~?" This sentence is your hypothesis. From several candidates, choose the most economical and natural one.
+
+*Step 3: Move forward holding the hypothesis*
+A hypothesis is the basis for action. Step forward holding the prediction "If I'm right, I'll find this."
+
+*Step 4: Update the hypothesis with the result*
+If right: the hypothesis solidifies into schema.
+If wrong: you've gained new clues, so you can build a better hypothesis. This too is a gain.
+
+[quote]
+____
+Abduction is not a game of "getting it right." It is a tool for "keeping moving forward."
+____
+
+'''
+
+=== What Hinders Abduction
+
+The greatest enemy that makes abduction difficult is the fear of *'what if I'm wrong?'*
+
+But remember: if Sage had not followed the footprints, he would not only have failed to find the spring — he would have learned nothing at all about this forest. Even a wrong hypothesis produces new clues.
+
+Abduction is not reckless gambling. After observing sufficiently and thinking sufficiently, it is *choosing the most plausible path and beginning to walk it*. Those steps accumulate into a new schema, and that schema accumulates into real expertise.
+
+'''
+
+_In the next episode, Sage learns how to look at his own reasoning from the outside — the mirror of metacognition._

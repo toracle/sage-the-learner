@@ -1,0 +1,164 @@
+= Episode 10: The Power of Analogy — Wings for Problem-Solving
+
+[quote]
+____
+_"To understand the unfamiliar, first climb atop the familiar."_
+____
+
+'''
+
+Word came from the eastern part of the forest.
+A waterway had become blocked.
+
+Sage rushed to the scene with four other scholars. A pile of rocks that had tumbled from upstream was blocking the channel. Large and small stones were tangled together, and water was barely seeping out through the edges. The farmland downstream was already beginning to dry out.
+
+"We'll have to remove the rocks one by one," the first scholar said.
+"It might collapse. Too dangerous," the second countered.
+"What if we just dig a new channel beside it?" the third suggested, but no one readily agreed.
+
+Everyone stood before the pile of rocks, staring only at the pile of rocks.
+
+Sage stepped back from the spot for a moment. He closed his eyes.
+
+_What does this look like?_
+
+It was a habit the Sage had taught him. When facing a new problem, first recall something that resembles it. Something with a similar structure.
+
+At that moment, a dam appeared in his mind.
+
+When Sage was a child, he had helped the village elders repair a small dam. The method was to secure a foundation with large stones, lay flat stones on top, and fill the gaps with earth and smaller stones. It was a structure designed to disperse the water's pressure.
+
+_This pile of rocks is also like a dam. An unintentional dam._
+
+"Wait," Sage said. "Instead of trying to remove this pile of rocks, let's think in reverse. This is a dam — an accidentally created dam. When you build a dam, the purpose is to hold water, but if you open a sluice gate on one side of the dam you can redirect the water in the direction you want."
+
+The scholars tilted their heads.
+
+Sage continued: "The right end of this pile looks relatively weak. If we remove those two flat stones there, the water will naturally flow toward the bypass channel on that side. There's no need to remove everything. Just open one gap, like a sluice gate."
+
+One of the scholars narrowed his eyes and looked at the pile again. "…You're right. Like a dam's sluice gate."
+
+Everyone began to move.
+
+The two flat stones were carefully removed. Water seeped in and then formed a current flowing into the bypass channel. Thirty minutes later, water was flowing again through the downstream channel.
+
+On the way back, Sage thought to himself.
+
+_We were looking at a pile of rocks. I saw a dam. Seeing the same thing differently was the solution._
+
+That evening, Sage went to the Sage and told him the experience. The Sage nodded and said:
+
+"That is analogy. Finding structurally similar points between two different things. Even if the surface is different, if the relationship flowing beneath them is the same, you can use what you know to solve what you don't."
+
+Sage asked: "Then is analogy always right?"
+
+"No," the Sage said firmly. "Analogy is not a complete proof. Resemblance doesn't mean identity. Analogy is a key that opens a door — you have to go inside yourself to see what's in the room."
+
+'''
+
+== What Is Analogy: Reading the Unknown with the Known
+
+=== The Definition of Analogy
+
+*Analogy* is a mode of thought that discovers *structural similarity* between two different concepts and applies understanding of one to the other based on that similarity.
+
+This is not simply a feeling of "they're similar." Cognitive scientists Douglas Hofstadter and Emmanuel Sander argued in their book _Surfaces and Essences_ that *analogy is the most fundamental engine of human thought*. When we understand a new concept, we are in fact using analogy in almost every case.
+
+Schematizing what Sage did:
+
+[cols="1,1", options="header"]
+|===
+| Source Domain (Known) | Target Domain (Unknown)
+| Dam | Pile of rocks
+| Sluice gate → redirect water flow | Remove specific stone → form bypass
+| Structural pressure dispersion | Weak point in the stone arrangement
+|===
+
+The surface (materials, scale, appearance) was different, but *the structure of the relationship* was the same. This is the essence of analogy.
+
+'''
+
+=== How Analogy Works: Structural Mapping
+
+Analogy creates a *mapping* of corresponding relationships between two domains.
+
+[source]
+----
+Source Domain              Target Domain
+─────────────────          ───────────────────
+Dam         ←──────────→  Pile of rocks
+Water       ←──────────→  Water
+Sluice gate ←──────────→  Weak stones
+Water redirection ←──→    Bypass formation
+----
+
+The better this correspondence holds, the stronger the analogy; the more mismatches there are, the weaker it becomes. The reason Sage's analogy was effective is that the *core relationship* (the control of water flow by a structure) corresponded precisely.
+
+'''
+
+=== Three Reasons Why Analogy Is Powerful
+
+*1. It enables the transfer of knowledge*
+
+Knowledge from a domain you know well can be used to solve problems in an entirely different field. Sage was able to apply his experience of dam repair to a water management problem without any knowledge of hydraulic engineering or civil construction.
+
+*2. It opens up invisible possibilities*
+
+When you look at a problem only as itself, you see only what is there. Analogy turns your gaze to see the problem from a different frame. A different frame yields different solutions.
+
+*3. It simplifies the complex*
+
+When explaining new concepts, analogy is a powerful tool. "Computer memory is like the space on a desk and the hard drive is like a filing cabinet" conveys structure far more quickly with a single sentence than any long technical explanation.
+
+'''
+
+=== The Pitfall of Analogy: Resemblance Is Not Identity
+
+Analogy is a tool for forming hypotheses, not proving them. As the Sage warned, analogy is *a key that opens a door*.
+
+Consider a common error:
+
+[quote]
+____
+"The brain is like a computer. A computer stores data perfectly. Therefore the brain stores experiences perfectly."
+____
+
+The analogy in the first sentence is useful, but pushed too far, it reaches a wrong conclusion. The brain and a computer have structurally similar parts, but the way memory operates is fundamentally different.
+
+*Good practice with analogy:*
+
+* Use analogy as a starting point for exploration
+* Always verify in practice the hypotheses you arrive at
+* Intentionally seek out where the analogy does not hold
+
+'''
+
+=== Training in Analogy: Practice in Daily Life
+
+Ability in analogy can be developed through training. Three simple methods:
+
+*① The habit of asking "What does this look like?"* +
+Every time you encounter a new problem or concept, practice first calling to mind something structurally similar from what you already know. This is exactly the question Sage closed his eyes to ask.
+
+*② Write out the correspondence between the two domains explicitly* +
+Keeping analogy only in your head makes it blurry where the similarity holds and where it diverges. Making a table makes both the strengths and limits of the analogy visible at once.
+
+*③ Deliberately cross between domains* +
+From biology to management, from architecture to software, from physics to psychology. The more different domains you know, the richer your supply of material for analogy.
+
+'''
+
+=== Summary
+
+On that day, Sage stood before the pile of rocks blocking the waterway and saw a *dam* instead of a pile of rocks. That single shift solved the stuck problem.
+
+Analogy is not a difficult skill. It is a mode of thought every human being already uses. But when used consciously — and when you check where the analogy fits and where it breaks — it truly becomes wings for problem-solving.
+
+[quote]
+____
+*Build a bridge between what you know and what you don't. The name of that bridge is analogy.*
+____
+
+'''
+
+_Reference: Douglas Hofstadter & Emmanuel Sander, _Surfaces and Essences: Analogy as the Fuel and Fire of Thinking_ (2013)_

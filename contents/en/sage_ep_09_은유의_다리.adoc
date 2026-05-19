@@ -1,0 +1,116 @@
+= Episode 9: The Bridge of Metaphor — Connecting New Concepts
+
+[quote]
+____
+"The moment you explain the unfamiliar by leaning it against the familiar, understanding takes wing."
+____
+
+'''
+
+Sage had been wrestling with a problem for several days.
+
+Coming down from the Sage's mountain, he had been asked by the villagers to teach them about the forest ecosystem. They needed to understand that if the forest collapsed, the village's water, its winds, and its medicinal herbs would all disappear along with it. But the explanation Sage had stayed up for nights to prepare was not drawing any ears.
+
+"Fungi break down inorganic minerals in the soil and convert them into forms that plants can absorb, and the ectomycorrhizae on the roots…"
+
+The villagers' eyes glazed. The old blacksmith openly yawned, and the baker quietly left her seat.
+
+Sage went to the Sage feeling deflated.
+
+"Sage, I understand the forest better than anyone. So why can't the people understand?"
+
+Instead of answering, the Sage asked a question.
+
+"Sage, what is a place villagers go in and out of every day?"
+
+"Hmm… the market square? And there's the library."
+
+"Yes. Then think about the library. What is in a library?"
+
+"Books. Sorted on shelves, with a librarian, and the books are all connected to each other."
+
+The Sage smiled gently. "That is exactly the forest."
+
+Sage stopped.
+
+"Each tree in the forest is a book. Each one holds hundreds of years of story. The paths between the trees are the shelves — walk the path and you know which trees you'll meet. And the fungal root network? That is the librarian network connecting the entire library. Just as a librarian links you to other shelves when information is needed in one book, the fungi pass nutrients and signals between the trees."
+
+Sage's eyes widened.
+
+"Then when a tree in the forest falls, it isn't like one book disappearing from the library — it could be…"
+
+"The collapse of an entire shelf." The Sage nodded. "The moment the unfamiliar forest is compared to a familiar library, a skeleton already forms in people's minds. You only need to place new knowledge on that skeleton."
+
+Sage returned to the village and stood in the square again.
+
+"Everyone, you know our village library? The forest is exactly the same. Trees are books, and the root network is the librarian system. What would happen if not just one book but an entire shelf burned?"
+
+The square went quiet. The old blacksmith uncrossed his arms and stepped forward. "That means if a row of trees is cut, the whole mountain over there is ruined?"
+
+Sage smiled. "Exactly."
+
+'''
+
+== What Is a Metaphor?
+
+The change Sage experienced was not simply "easier explanation." It was the moment *Conceptual Metaphor*, as cognitive science describes it, came into operation.
+
+Linguist George Lakoff and philosopher Mark Johnson argued in their book _Metaphors We Live By_ (1980):
+
+[quote]
+____
+"Metaphor is not merely a rhetorical ornament. We understand the world, think, and act through metaphor."
+____
+
+In other words, metaphor is not a technique for decorating writing beautifully. It is *a cognitive way of understanding an unfamiliar concept (the target domain) through the structure of a familiar concept (the source domain)*.
+
+=== Why Metaphor Is Powerful in Learning
+
+Our brain expends a great deal of energy processing entirely new information. But when new information "maps" onto a structure it already knows, the brain can reuse its existing *schema* — the skeleton of knowledge organized in memory.
+
+Looking at Sage's case:
+
+[cols="1,1,1", options="header"]
+|===
+| Source Domain (Familiar) | → | Target Domain (Unfamiliar)
+| Library | | Forest ecosystem
+| Book | | Tree
+| Shelf | | Forest path
+| Librarian network | | Fungal root network
+| Loss of a single book | | Removal of a single tree
+| Collapse of a shelf | | Cascading ecological collapse
+|===
+
+The moment this mapping is established, a *blank skeleton for "forest" is instantly generated* in the villagers' minds. They no longer need to assemble new information from scratch.
+
+=== The Conditions for a Good Metaphor
+
+Metaphor is not always effective. A well-functioning metaphor has three conditions.
+
+. *The audience already knows the source domain* +
+The reason Sage used the "library" metaphor is that all the villagers regularly visited the library. Using something the audience doesn't know as the source domain creates double confusion.
+
+. *There must be sufficient structural similarity* +
+It must not merely resemble on the surface — *the structure of relationships* must be similar. "Tree = book" works because both "hold information and are each independent while also connected to an entire system" — the structure is the same.
+
+. *Know the limits of the metaphor* +
+No metaphor is perfect. A forest also has differences from a library — books do not photosynthesize. Metaphor is a scaffold for understanding, not the concept itself. Once you have climbed up on the scaffold, you must examine the scaffold itself.
+
+=== Making Use of It in Daily Life and Work
+
+Metaphor is not only a tool for educational settings.
+
+* *When explaining a technical concept to a non-specialist*: "An API is like the waiter between the menu and the kitchen. Customers only need to see the menu — they don't need to know how the kitchen works inside."
+* *When explaining a complex data structure to a teammate*: "Cache is like keeping frequently-used things on your desk, and a database is like putting them in a filing cabinet."
+* *When persuading people about the direction of a new project*: One powerful image can transform a meeting room more than numbers alone.
+
+Practice deliberately choosing a metaphor, beginning today.
+
+[quote]
+____
+Figure out what the *core structure* of the concept you are trying to explain is, and look for a *familiar structure* already in the listener's mind that overlaps with it — that is how you design a metaphor.
+____
+
+'''
+
+_In the next episode, Sage stands before a completely different kind of problem. This time, going one step further than metaphor, he encounters the power of analogy — borrowing a solution from an entirely different domain._

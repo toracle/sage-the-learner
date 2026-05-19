@@ -1,0 +1,198 @@
+= Episode 8: The Shadow of Emotion — In Search of Motivation
+
+[quote]
+____
+*"Motivation is like a spark. You cannot force it to ignite, but change the direction of the wind and it will kindle on its own."*
+____
+
+'''
+
+== Sage's Story
+
+Near the entrance of the forest stood a worn old wooden bench. Sage always passed it on his way back from explorations, and for several days now the same person had been sitting there alone.
+
+Coming closer, he saw it was an elderly scholar. He held an exploration map in his hands, but his eyes were pointed at the ground, not the forest.
+
+"I used to wander that forest once."
+
+The scholar spoke up as Sage sat beside him, even though no one had asked.
+
+"Is that so."
+
+Sage did not hurry. He sensed something more lay within the scholar's words.
+
+"But now… I know there is no use going in. I lose my way, wander, and come back empty-handed in the end. That is who I am. No matter how hard I try, I am not capable."
+
+The scholar's voice was firm. Like a sentence he had repeated to himself hundreds of times over many years.
+
+Sage pressed down the urge to argue back. _'That's not true, you can do it!'_ — that kind of thing rose to his throat, but he knew those words would do this person no good right now. Words of encouragement are sometimes read as a sign that you don't understand how deeply the other person has sunk.
+
+Instead, Sage sat in silence for a moment, then asked slowly:
+
+"It sounds as though you feel like giving up on the forest. You must have had experiences painful enough to feel that way."
+
+The scholar looked up. This was a reaction he had not expected.
+
+"…Yes. I lost my way three times. The last time I wandered for two days before barely making it out."
+
+"That must have been terrifying."
+
+"I was afraid. And ashamed. Everyone else seems to manage fine, and there I was like that."
+
+Sage nodded. And waited a little longer. He knew he should not rush.
+
+"But…" Sage began quietly. "Could you tell me about when you first entered the forest? What frame of mind did you start with?"
+
+The scholar's gaze shifted subtly.
+
+"At first… I was excited. I knew there were ancient trees of knowledge inside the forest. That first day, when I found a rare moss colony, the joy of it… it's still vivid even now."
+
+"That joy." Sage gently echoed the word. "That is what first drew you into the forest."
+
+The scholar slowly nodded. The map in his hands opened a little differently.
+
+"Do you perhaps also feel that that excitement hasn't entirely disappeared?" Sage asked.
+
+"…I wonder." The scholar hesitated for the first time. "I thought it had vanished. But now that I'm talking, it seems like it might not be completely gone."
+
+Sage smiled.
+
+"In that case, you don't need to go deep into the forest right now. But may I ask you just one thing? If you were to enter the forest again, what would you most want to find first?"
+
+The scholar thought for a moment.
+
+"…I have heard that there is an old moss-covered area in the northern valley. I have always wanted to see it."
+
+"The path that way is comparatively well marked," Sage said, pointing at the map. "You can be back within an hour."
+
+The scholar looked down at the map. As if unfolding it properly for the first time, having only carried it around until now.
+
+"…Shall I go?"
+
+'''
+
+A week later, Sage passed the bench again. The scholar was not there. Instead, a small note had been left on the bench.
+
+_"I found the moss area. I plan to go deeper tomorrow. Thank you."_
+
+That evening, Sage told the Sage this story.
+
+"I didn't really say anything remarkable. I just… listened, and asked questions."
+
+The Sage nodded and said:
+
+"That is precisely the core of it. Motivation cannot be put in from the outside. It was already inside that scholar. You cleared a path so he could discover it himself."
+
+'''
+
+== Understanding the Concept: Motivational Interviewing and Self-Efficacy
+
+=== Why "You Can Do It!" Doesn't Work
+
+When someone says "I don't think I can do this," our instinct is to rush in with immediate encouragement.
+
+[quote]
+____
+_"No, you can do it!" / "Don't give up!" / "Try a little longer!"_
+____
+
+But psychological research shows that these reactions often produce the opposite effect. The other person feels "you don't understand my situation" and may actually shrink back further.
+
+So what should you do? This is where *Motivational Interviewing (MI)* comes in.
+
+'''
+
+=== What Is Motivational Interviewing?
+
+Motivational Interviewing is a conversational technique developed in the 1980s by clinical psychologists William R. Miller and Stephen Rollnick. It originated in addiction treatment settings but is now used in education, coaching, medicine, leadership, and many other fields.
+
+Its core philosophy is simple:
+
+[quote]
+____
+*"The reasons for change lie within the other person. Conversation is the process of drawing them out."*
+____
+
+There are four principles of MI to remember.
+
+[cols="1,1,1", options="header"]
+|===
+| Principle | Meaning | Sage's Example
+| *Express Empathy* | Acknowledge the other person's feelings without judgment | "It sounds as though you feel like giving up on the forest"
+| *Develop Discrepancy* | Help them feel for themselves the gap between their current state and what they truly want | "What frame of mind did you start with when you first entered the forest?"
+| *Roll with Resistance* | Don't confront resistance head-on — let it flow gently past | Not arguing back, shifting to questions instead
+| *Support Self-Efficacy* | Help the other person build their own belief that they can do it | Proposing a small, achievable first goal
+|===
+
+'''
+
+=== Listen for "Change Talk"
+
+A particularly important concept in MI is *Change Talk*.
+
+The moment the scholar said "that first day, when I found a rare moss colony, the joy of it is still vivid," that was Change Talk: the voice wanting to change, hidden beneath the words that said "I want to give up."
+
+A skilled conversationalist does not let that moment pass. They gently echo back that very word and help it continue forward.
+
+[quote]
+____
+_"That joy."_ — Sage's single phrase caused the scholar to see his own motivation again.
+____
+
+'''
+
+=== Self-Efficacy: The Engine of Sustained Learning
+
+*Self-Efficacy*, proposed by Albert Bandura, is the belief in oneself that "I can do this."
+
+Research shows that self-efficacy has as strong an influence on learning outcomes as actual ability. People with low self-efficacy give up easily when they encounter difficulty; people with high self-efficacy receive the same difficulty as "a problem not yet solved."
+
+The most effective ways to restore self-efficacy are as follows:
+
+. *Mastery Experience*: Actually experiencing a small success. This is the most powerful.
+. *Vicarious Experience*: Watching someone in a similar position succeed.
+. *Verbal Persuasion*: Sincere encouragement from someone you trust.
+. *Physiological State Reinterpretation*: Reinterpreting anxiety not as "I'm not ready" but as "I am in the face of a challenge."
+
+When Sage suggested "the moss area, where you can be back within an hour," he was designing a *mastery experience*: not a grand goal, but a first step where success was possible.
+
+'''
+
+=== MI Question Patterns to Use Right Away in Learning Situations
+
+The techniques of Motivational Interviewing can be applied as-is in learning situations. When someone is about to give up studying, recall these question patterns.
+
+[cols="1,1,1", options="header"]
+|===
+| Situation | Common Response (Ineffective) | MI-Style Question
+| "I'm bad at math" | "No, if you try hard you can do it!" | "Was there ever a moment when you felt something in math had finally clicked?"
+| "I'm going to give up on this project" | "Try just a little longer!" | "When you first started this project, what were you hoping for?"
+| "I have no talent for writing" | "That's not true, you write well!" | "Of everything you've written so far, is there even one sentence you were pleased with yourself?"
+|===
+
+Do you see the common thread? They are all questions that *find traces of intrinsic motivation from the past*. Motivation is not something newly created — it is something already there, waiting to be switched back on.
+
+'''
+
+=== Core Summary
+
+[source]
+----
+The essence of Motivational Interviewing (MI)
+─────────────────────────────────────────
+Not explaining to the other person "why you should do this,"
+but designing the conversation so they discover that reason themselves.
+
+The key to restoring self-efficacy
+─────────────────────────────────────────
+One small success experience is more powerful
+than a grand goal at restoring the belief "I can do this."
+----
+
+'''
+
+[quote]
+____
+*Preview of the next episode* +
+Moving into Part 2, Sage now learns to connect and expand knowledge beyond the individual. In Episode 9, we encounter the *power of metaphor* — building a bridge between two entirely different concepts.
+____

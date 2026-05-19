@@ -1,0 +1,165 @@
+= Episode 3: Tying the Knot with Feedback — Intentional Encoding
+
+[quote]
+____
+"Just as you cannot see your own face without a mirror, you cannot see your own blind spots without feedback."
+____
+
+'''
+
+== Sage's Story
+
+On the morning of the third day, Sage moved with nimble feet.
+
+The forest was no longer an unfamiliar maze. The great boulders, the split pine, the moss-covered stones — thanks to the tree-path-pond bundle he had mastered in Episode 2, he moved through the forest with more confidence than ever before.
+
+The Sage followed quietly behind.
+
+When they arrived at the pond, Sage turned around with a satisfied look.
+
+"How was that? I came much faster today, didn't I?"
+
+The Sage nodded. But without letting his smile go, he asked slowly:
+
+"Sage, did you notice that tall fir tree on the way here?"
+
+Sage hesitated. The fir tree? He searched his memory and came up with nothing.
+
+"…I did not notice it."
+
+"That fir tree can be seen from twice as far away as the mossy stone you have been using as a landmark," the Sage said gently. "If you had taken that fir tree as your landmark, you would not have had to stoop down to look for stones at all."
+
+Sage turned around. Above the forest, standing one head taller than the other trees, was the fir tree. He had never once thought to look up.
+
+That evening, Sage opened his notebook.
+
+_'Not "tree-path-pond" but "fir tree-downslope-pond."'_
+
+Just a single line of revision. Yet as he wrote that one line, Sage felt a curious sensation. This was not simply changing a landmark. He was thinking about *why he had missed the fir tree*. _I always have a habit of looking at my feet. I need to widen my gaze._
+
+The next day, the Sage presented a new challenge. Instead of the trail, find a shortcut through the undergrowth.
+
+Sage tried. He failed. He tried again. The Sage watched quietly from the side each time, then offered a single remark when the attempt was over.
+
+"That direction is less steep if you go toward the north ridge."
+"When you stopped at the second fork, what was your basis for the decision?"
+"It wasn't a wrong choice. There was just a faster one."
+
+At first these pieces of feedback felt to Sage as though they were cutting down his ability. But after three days things changed. Every time feedback came, he began to receive it not as "correction" but as a "lens." The Sage's words were a lens showing Sage the angles he could not have seen on his own.
+
+A week passed.
+
+Sage's footsteps had changed. It was not just that they had grown faster. When he entered a new path now, he naturally searched for *what could be seen from farthest away, what was most permanent*. And when he had walked the path all the way through, he asked himself: _Was there a better landmark? Where did I waver?_
+
+One evening, the Sage sat beside the fire and said:
+
+"Feedback is like a mirror. Without a mirror, you cannot see the dirt on your own face. But because people fear the mirror, they walk the road with a dirty face while believing they look fine."
+
+Sage nodded as he watched the flames.
+
+"At first I was the same. Feedback felt as though it was telling me I was wrong."
+
+"That's right," the Sage smiled. "Not wrong — just unfinished. Knowing the difference is the real beginning of learning."
+
+'''
+
+== Conceptual Explanation
+
+=== Why Does Practicing Alone Hit a Limit?
+
+The belief that doing something for a long time will make you good at it is only half right. There are experienced drivers with higher accident rates than beginners. There are people who have played golf for twenty years with a swing that has simply hardened. The reason experience accumulates without skill improving is the *illusion that your own way is the best*.
+
+Cognitive psychology calls this the *automaticity trap*. When an action is repeated, the brain locks it into an unconscious routine. Energy is conserved, but the room for improvement is closed along with it.
+
+'''
+
+=== What Is Deliberate Practice?
+
+Psychologist K. Anders Ericsson spent decades studying violinists, chess champions, and surgeons and found a single pattern. The greatest experts did not simply do a lot. They practiced *deliberately — in uncomfortable territory, with immediate feedback*.
+
+Ericsson called this *Deliberate Practice* and identified three core elements.
+
+[cols="1,1,1", options="header"]
+|===
+| Element | Description | Sage's Example
+| *Challenging the edge* | A task that slightly exceeds current ability | Finding shortcuts through undergrowth instead of familiar trails
+| *Immediate feedback* | Specific, immediate information about the result | The Sage's "the north ridge is less steep"
+| *Intentional revision* | Explicitly changing strategy based on feedback | Re-encoding the landmark from "mossy stone" to "fir tree"
+|===
+
+'''
+
+=== How Feedback Changes Encoding
+
+The encoding from the previous episode — bundling knowledge into chunks and storing it — is not fixed forever in the form it was first created. On the contrary, *feedback is a tool that operates on encoding*.
+
+[source]
+----
+[Original encoding]
+  Mossy stone → Downslope → Pond
+
+[Feedback received]
+  "The fir tree can be seen from much farther away"
+
+[Revised encoding]
+  Fir tree → Downslope → Pond
+      ↓
+  + "Need to widen my gaze" also stored as a meta-strategy
+----
+
+What is important is that Sage did not stop at changing the landmark. He also encoded *why he had missed the fir tree*. This is the difference between a simple correction and deliberate practice. Feedback gives not only information about the result, but also *meta-information about one's own patterns of thought*.
+
+'''
+
+=== Why People Fear Feedback, and How to Overcome It
+
+People know feedback is useful and yet still avoid it.
+
+*Ego threat:* Information that you were wrong is unconsciously interpreted as a signal that "I am incompetent." Sage too initially felt feedback as criticism.
+
+The key to overcoming this is *separating the process self from the outcome self*.
+
+* "I was wrong." (attributed to the outcome self)
+* "There was a better option in this attempt." (attributed to the process)
+
+As Sage realized, feedback is not an evaluation of "me" — it is information about "this attempt." This shift in perspective alone can dramatically increase receptiveness to feedback.
+
+'''
+
+=== Practice: Your Own Deliberate Encoding Loop
+
+A simple loop for applying deliberate practice to learning.
+
+[source]
+----
+1. Attempt (choose a task that slightly exceeds your current limit)
+      ↓
+2. Observe (record the result specifically — not just "it went well")
+      ↓
+3. Collect feedback (from an expert, a peer, or your own checklist)
+      ↓
+4. Revise encoding (explicitly revise the existing knowledge chunk)
+      ↓
+5. Meta-question (why did that error occur? what habit of thought caused it?)
+      ↓
+Back to 1
+----
+
+The key is to run this loop short and often. Just as Sage attempted short routes many times a day, many short cycles sharpen encoding far more quickly than one long practice session.
+
+'''
+
+=== Core Summary
+
+[quote]
+____
+Repeating what you're good at makes you proficient. But *repeating what you're bad at, with feedback, makes you grow.*
+____
+
+* Deliberate practice is a question not of "how much" but of "how."
+* Feedback is both a tool for revising encoding and a mirror illuminating your blind spots.
+* Receiving feedback as information about "this attempt" rather than an evaluation of "me" changes the speed of learning.
+
+'''
+
+_In the next episode, Sage attempts to explain the forest paths he has mastered to a traveler who has never been there. In the process, he discovers that "knowing" something and "being able to explain" it are entirely different abilities._

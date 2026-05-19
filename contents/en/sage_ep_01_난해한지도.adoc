@@ -1,0 +1,138 @@
+= Episode 1: The First Step Through the Cryptic Map
+
+[quote]
+____
+"Do not try to memorize the whole map. Find the landmarks first."
+____
+
+'''
+
+== Into the Forest
+
+The Sage and Sage left the valley early in the morning. After perhaps an hour of walking, the two of them stopped before an immensely dense forest.
+
+"I have something to give you."
+
+What the Sage drew from his robe was a single map. Dozens of paths drawn in close detail, unfamiliar place names, contour lines, markings for undergrowth… Sage received the map and opened his eyes wide.
+
+"Go to the hill beyond that winding river you can see over there. You have a map, so you will be able to find the way."
+
+With only those words, the Sage sat down on a tree stump and closed his eyes.
+
+Sage stepped into the forest with the map in hand. The first ten steps felt confident. But at the first fork in the path, his feet stopped. The map showed three branches at the junction, but before his eyes four paths spread out. _Which one corresponds to which path on the map?_ He turned the map this way and that, looked around him, then looked down at the map again and again.
+
+A little farther in, he came to a stretch packed with contour lines. _Is this high ground or low?_ The place names were unfamiliar too: Crow's Ridge, Cool Gully, Three Pine Trees… Sage's mind felt more and more like it was jamming tight. Before long he could not even tell where he was.
+
+In the end, Sage retraced his steps and returned to the Sage. His face was flushed as he said:
+
+"It's too complicated. The more I look at the map, the more my head clouds over like fog."
+
+'''
+
+== Following the Landmarks
+
+The Sage opened his eyes and smiled gently, as if he had expected this.
+
+"Naturally. Your mind has no framework for this forest yet. Trying to process all the map's information at once is bound to overwhelm it."
+
+The Sage rose and pointed at the map.
+
+"Look only at this. Three large trees, and the winding river."
+
+His finger indicated just two markers on the map. Two out of dozens. Sage was baffled.
+
+"Just those two?"
+
+"Just those two. Now follow me."
+
+The Sage walked into the forest and explained slowly as he went.
+
+"When you see the three large trees, that is your signal that you have passed through the first zone. And when the winding river begins to appear on your left, the hill is just on the other side of the river."
+
+The two of them walked slowly. The Sage made no mention at all of the rest of the information — contour lines, place names, tiny trails. Only the two landmarks.
+
+Before long, three large trees appeared. Sage stopped as if by instinct and said:
+
+"This is where we pass through the first zone."
+
+"That's right."
+
+A little farther, the winding river appeared on the left. This time Sage spoke without prompting:
+
+"Then the other side of the river is…"
+
+"Go and see."
+
+Sage crossed the stepping-stones. As he climbed the hill on the far side, for the first time the whole forest spread out below him. The forest that had seemed so disorienting on the way in now separated itself naturally around the two landmarks.
+
+"Ah…"
+
+Sage opened the map again. The map that had looked like chaos just moments ago now began to read itself, using the two landmarks as its key.
+
+The Sage said:
+
+"There is no need to understand the whole map from the beginning. What matters is following the landmarks to build a basic framework of the forest. Once that framework is in place, the rest of the information will naturally find its place within it."
+
+Sage stood on the hill looking down at the forest and nodded. It felt as though the fog was lifting.
+
+'''
+
+== Reading Through Concepts
+
+=== Why Did Sage's Mind Get "Foggy"?
+
+The reason Sage wandered alone with the map was not a lack of ability. It was because too much information had to be processed all at once. In *Cognitive Load Theory (CLT)*, this is called *Extraneous Cognitive Load*.
+
+Human working memory is narrow. It can consciously process only about 4±1 chunks of information at a time. Elements such as a complexly designed map, unfamiliar terminology, and mismatches between the map and the actual terrain all waste vast amounts of *cognitive effort that has nothing to do with the learning itself*. This is extraneous load.
+
+*Intrinsic Cognitive Load*, on the other hand, comes from the complexity of the learning content itself. Understanding the structure of the forest inherently requires a certain degree of cognitive effort. This is load that cannot be avoided — indeed, it is load that should be maintained at the right level.
+
+[quote]
+____
+The goal of good instructional design is to *reduce extraneous load and adjust intrinsic load to match the learner's level*.
+____
+
+'''
+
+=== Why Are "Worked Examples" Effective?
+
+The strategy the Sage used is what CLT calls a *Worked Example*: showing step by step how an expert solves a problem.
+
+When a beginner tries to solve a problem from scratch on their own, most of their working memory is consumed in exploring *"what should I be doing?"* There is no capacity left for understanding the concepts. A worked example pays that search cost for them. The learner can focus on *recognizing patterns and absorbing structure* by following along with the process.
+
+[source]
+----
+[Typical mistake]  Have learners solve everything on their own from the start
+                   → Working memory overload → Confusion → Giving up
+
+[Effective approach]  Show the expert's solution process step by step
+                      → Working memory freed → Pattern recognition → Schema formation
+----
+
+'''
+
+=== Schema: The Skeleton of Knowledge
+
+What the Sage actually gave Sage through the two landmarks was a *schema* — a cognitive skeleton, or framework, for holding information. Once Sage had a basic framework for the structure of the forest, he was able to read the map he had found so confusing before with new eyes.
+
+Schema is the key asset of learning. Without schema, new information simply flows past; but with schema, new information attaches itself to existing structure and becomes *meaningful knowledge*. And knowledge that has been automated into schema consumes almost no working memory, creating space for more complex thought.
+
+'''
+
+=== Applying This in Practice
+
+When learning a new domain, you can use this principle as follows.
+
+[cols="1,1,1", options="header"]
+|===
+| Situation | Inefficient Approach | Effective Approach
+| Reading new technical documentation for the first time | Read carefully from beginning to end | Grasp the structure first (table of contents, major concepts)
+| Getting to know a new codebase | Read all the files in order | First trace only the entry points and two or three core flows
+| Studying a complex concept | Try to understand from definition to detail all at once | Follow examples first to get a feel, then return to the theory
+|===
+
+The key is simple: *Find only the landmarks at first.* The whole map fills in naturally as you walk the landmarks.
+
+'''
+
+_In the next episode, Sage learns which of the information he has collected in the forest he should remember and which he should discard._

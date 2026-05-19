@@ -1,0 +1,150 @@
+= Episode 18: Contextual Learning — From the Forest to the World
+
+[quote]
+____
+_"One who has learned principles finds a path anywhere. One who has memorized facts walks only on that path."_
+____
+
+'''
+
+== Sage's Story
+
+After a long time spent in the forest, Sage felt a strange sensation one day.
+
+He sat on a flat rock at the forest's edge where he often liked to rest, looking across the valley at the distant village. Chimney smoke rose, and the voices of merchants carried on the wind. At that moment, a strange question arose in Sage's mind.
+
+_'Could the things I learned in the forest… also hold true in that village?'_
+
+The Sage had always said: "Once you understand the forest, go outside the forest." Sage now wanted to ask for the first time what those words truly meant.
+
+'''
+
+The first thing Sage drew out was the scene he had observed longest in the forest: "balance."
+
+There was a strange order in the forest. When there were too many wolves, deer decreased; when deer decreased, the grass grew thick; when the grass grew thick, rabbits multiplied; when rabbits multiplied, foxes thrived; when foxes thrived, smaller creatures grew cautious. No single being exploded in number or disappeared entirely. Each regulated the others.
+
+Sage wrote this in his notebook:
+
+[quote]
+____
+_"The forest: connected beings regulating each other while maintaining balance."_
+____
+
+And then he went down to the village.
+
+'''
+
+In Episode 13, Sage realized that the balance of the ecosystem was structurally identical to the relationship between merchants and farmers. Was that discovery a coincidence?
+
+At the village market, a different scene caught his eye this time. A cloth merchant gave credit to a leather merchant, and the leather merchant used that trust as collateral to give credit to a hardware merchant. Merchants wove each other's credit into chains and the market turned. But one day the cloth merchant suddenly went bankrupt. The leather merchant wobbled too, and the hardware merchant followed and closed his shop. The entire market collapsed in succession.
+
+Sage looked at that scene and muttered to himself:
+
+_'This… is the same as what I saw in the forest? Like how the whole food chain cascades when a single predator disappears.'_
+
+Sage opened his notebook and wrote:
+
+[quote]
+____
+_"The chain of connected beings — when one falls, everything shakes. In the forest and in the market alike."_
+____
+
+'''
+
+A few days later, Sage was passing a school and heard a mathematics teacher's lecture.
+
+"What is an equation? It is left side and right side maintaining balance by adjusting to each other. Change one and the other must change by exactly as much."
+
+Sage's footsteps stopped.
+
+_'…This is the same thing too.'_
+
+He went inside the school and sat down. The formulas were unfamiliar, but the logic flowing within them was not. When one changes, the whole responds, and that response creates a new balance. In the forest, in the market, and in the equations. The same principle was written in different languages.
+
+That evening Sage rushed to the Sage.
+
+"Teacher, something strange happened. The principle of balance I learned in the forest — I saw it in the village market and also in the mathematical equations. Am I imagining things?"
+
+The Sage looked at Sage for a moment, then smiled quietly.
+
+"You're not imagining. That is the power of principles. If you had memorized the phenomenon of 'balance' in the forest, you wouldn't have seen it outside the forest. But you grasped the structure behind the phenomenon. The structure of 'interconnected elements moving toward stability through mutual regulation.' That structure exists not in the forest but everywhere in the world."
+
+Sage quietly took out his notebook and wrote a new sentence:
+
+[quote]
+____
+_"I was not learning the forest. Through the forest, I was learning one principle of the world."_
+____
+
+'''
+
+After that, Sage changed.
+
+Whenever he learned something new, a habit formed of asking himself: _"What is the structure of this? Where have I seen this structure before? Where else does this hold true?"_
+
+When he read in a philosophy book "virtue avoids extremes and holds to the middle way," Sage smiled. The balance of the forest, the balance of the market, the balance of equations, and the balance of life. The names were different, but they were all telling the same story.
+
+Knowledge was not inside the forest. The forest was simply the door.
+
+'''
+
+== Understanding the Concepts
+
+=== Situated Cognition
+
+When we learn something, that learning never happens in a vacuum. It always happens within a specific place, situation, and relationship. Cognitive scientists John Seely Brown and Jean Lave called this *Situated Cognition*: learning is rooted in context.
+
+This is not simply a story about environment. What context we learned something in determines where we can use that knowledge.
+
+For example, a child who learns fractions in school through an example of dividing pizza uses fractions well in pizza situations. But when the same concept appears in cooking recipes or map scales, it suddenly becomes unfamiliar. Because what was learned was not the concept but that context.
+
+From the perspective of situated cognition, therefore, good learning is not simply delivering information — it is *letting the learner experience the context in which knowledge lives and moves*.
+
+'''
+
+=== Transfer of Learning
+
+Just as Sage applied principles he learned in the forest to the market and to mathematics, the ability to apply what was learned in one context to another context is called *transfer of learning*.
+
+There are two kinds of transfer.
+
+*Near Transfer*: Applying to a situation very similar to the one learned. For example, applying list sorting learned in Python to dictionary sorting.
+
+*Far Transfer*: Applying to a situation that looks entirely different from the one learned. For example, applying the ecological balance principle in a forest to market economics or the homeostasis of the human body.
+
+The reason far transfer is difficult is clear: the surface characteristics are different. A forest and a market look nothing alike. But when you see through to the *structural principle they share*, transfer becomes possible.
+
+'''
+
+=== What Makes Transfer Possible: Abstraction
+
+The reason Sage succeeded in transfer is that he did not memorize facts about the forest — he extracted the *abstract principle* behind the forest.
+
+[cols="1,1", options="header"]
+|===
+| Surface (what blocks you if you memorize it) | Structure (what transfers if you abstract it)
+| "When wolves increase in the forest, deer decrease" | "Interconnected elements move toward balance through mutual regulation"
+| "In Python, `sort()` is used like this" | "Sorting is determining a criterion for comparison and rearranging the order according to that criterion"
+| "The marketing funnel is Awareness→Interest→Desire→Action" | "Complex behavior narrows progressively through multiple psychological stages"
+|===
+
+Abstraction is often felt as "something difficult and high-level." But it is actually a very practical skill. The single question "what is the core principle of this?" is all it takes.
+
+'''
+
+=== Applying to Learning Right Away
+
+Every time you learn something new, ask yourself these three questions:
+
+. *What is the structure of this?* — Find the principle, not the surface.
+. *Where have I seen this structure before?* — Connect with existing knowledge.
+. *What other contexts might this hold true in?* — Explore the possibility of transfer.
+
+Just as Sage moved from the forest to the market, from the market to equations, from equations to philosophy, these three questions keep knowledge from being imprisoned in its context and spread it out into the world.
+
+'''
+
+[quote]
+____
+Knowledge is not in the place you learned it. It becomes "yours" only when you can carry it and go anywhere.
+____

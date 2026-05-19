@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>현자 세이지의 비법 — 한 구도자의 지혜를 얻기 위한 학습 여정</title>
+  <link rel="alternate" hreflang="en" href="../">
+  <link rel="alternate" hreflang="ko" href="./">
+  <link rel="alternate" hreflang="x-default" href="../">
+  <style>
+    :root {
+      --bg: #FAFAF8;
+      --fg: #2C3E50;
+      --muted: #6B7B8D;
+      --accent: #3A6EA5;
+      --card-bg: #FFFFFF;
+      --border: #E0E0E0;
+      --shadow: 0 1px 3px rgba(0,0,0,0.06);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont,
+                   "Noto Sans KR", "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 24px;
+      border-bottom: 1px solid var(--border);
+      background: #FFF;
+      font-size: 0.85rem;
+    }
+    .topbar a { color: var(--accent); text-decoration: none; }
+    .topbar a:hover { text-decoration: underline; }
+    .topbar .lang-switch span { color: #9CA3AF; }
+    .topbar .lang-switch a { font-weight: 500; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    header {
+      padding: 80px 0 48px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+    }
+
+    header .subtitle {
+      font-size: 1.05rem;
+      color: var(--muted);
+      font-weight: 400;
+    }
+
+    header .epigraph {
+      margin-top: 24px;
+      font-style: italic;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .intro {
+      margin-bottom: 48px;
+      color: var(--fg);
+      font-size: 0.95rem;
+    }
+
+    .intro p + p {
+      margin-top: 12px;
+    }
+
+    .resources {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      margin-bottom: 64px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 28px 28px 24px;
+      box-shadow: var(--shadow);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 4px;
+    }
+
+    .card-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+    }
+
+    .card h2 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    .card .audience {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+
+    .card p {
+      font-size: 0.92rem;
+      color: var(--fg);
+      margin-bottom: 16px;
+    }
+
+    .card-links {
+      display: flex;
+      gap: 12px;
+    }
+
+    .card-links a {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--accent);
+      text-decoration: none;
+      padding: 6px 14px;
+      border: 1px solid var(--accent);
+      border-radius: 5px;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .card-links a:hover {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .card-links a.pdf {
+      border-color: var(--border);
+      color: var(--muted);
+    }
+
+    .card-links a.pdf:hover {
+      background: var(--fg);
+      border-color: var(--fg);
+      color: #fff;
+    }
+
+    footer {
+      text-align: center;
+      padding: 32px 0 48px;
+      border-top: 1px solid var(--border);
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 480px) {
+      header { padding: 48px 0 32px; }
+      header h1 { font-size: 1.5rem; }
+      .card { padding: 20px; }
+      .card-links { flex-direction: column; }
+      .card-links a { justify-content: center; }
+      .topbar { padding: 10px 16px; font-size: 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="https://toracle.github.io/books/ko/">← 책 목록</a>
+  <span class="lang-switch">
+    <a href="../">English</a> · <span>KO</span>
+  </span>
+</div>
+
+<div class="container">
+  <header>
+    <h1>현자 세이지의 비법</h1>
+    <div class="subtitle">한 구도자의 지혜를 얻기 위한 학습 여정</div>
+    <div class="epigraph">"지식을 쌓는다고 지혜가 쌓이지는 않는다. 지혜는 배움의 방식에서 자란다."</div>
+  </header>
+
+  <section class="intro">
+    <p>
+      배우는 법을 배우고 싶었던 젊은 학자 세이지가 사유의 산을 찾아 현자를 만나는 이야기입니다.
+      스무 개의 에피소드를 통해 메타인지, 기억, 동기, 협업, 성찰의 원리를 탐구합니다.
+    </p>
+    <p>
+      인지과학과 교육심리학의 통찰을 이야기 형식으로 풀어냈습니다.
+      세이지의 여정을 따라가다 보면 자신만의 학습 지도를 그리게 될 것입니다.
+    </p>
+  </section>
+
+  <section class="resources">
+
+    <div class="card">
+      <div class="card-header">
+        <span class="card-label">Book</span>
+      </div>
+      <h2>현자 세이지의 비법</h2>
+      <div class="audience">학습자 · 독립 학습자</div>
+      <p>
+        파트 1(기초 다지기)부터 파트 4(통합과 성찰)까지, 스무 개의 에피소드로 구성된 완전한 이야기입니다.
+        프롤로그에서 에필로그까지, 세이지와 현자의 대화 속에 담긴 학습의 원리를 따라가세요.
+      </p>
+      <div class="card-links">
+        <a href="book.html">HTML</a>
+        <a href="book.pdf" class="pdf">PDF</a>
+      </div>
+    </div>
+
+  </section>
+
+  <footer>
+    <a href="https://github.com/warmblood-kr/sage-the-learner">GitHub</a>
+    &nbsp;&middot;&nbsp;
+    CC BY-SA 4.0
+  </footer>
+</div>
+
+</body>
+</html>

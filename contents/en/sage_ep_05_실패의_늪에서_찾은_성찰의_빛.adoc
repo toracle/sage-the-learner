@@ -1,0 +1,142 @@
+= Episode 5: The Light of Reflection Found in the Swamp of Failure
+
+[quote]
+____
+"Trust a map too much, and you lose the path before your eyes."
+____
+
+'''
+
+Sage returned three days later.
+
+The Sage set a warm cup of tea before him without a word. Sage's shoes were caked with mud, and shadows lay beneath his eyes. He held the teacup in both hands and sat in silence for a long while.
+
+"I prepared properly. I am certain of that."
+
+Sage was first to speak.
+
+"I drew the mental map the way I had learned. I etched the forest's terrain into my mind. I was convinced that if I followed the north ridge, I would reach the spring. But the ridge split into three, and I chose the most familiar direction. It was wrong. I wandered for two days and failed to complete the task."
+
+He set down the teacup.
+
+"I thought everything was perfect. Why did I make this mistake?"
+
+The Sage nodded and spoke.
+
+"You did not fail because your schema was lacking. You failed because you blindly trusted your own schema."
+
+Sage furrowed his brow. "What is the difference?"
+
+"Your map was not wrong. But it was incomplete. The real problem was that you took it as 'finished.' At that split into three ridges — what did you do?"
+
+Sage slowly retraced that day in his mind.
+
+"…I chose the most familiar direction. It looked similar to the ridge in my memory."
+
+"Yes. When faced with something unfamiliar, you reached for a familiar memory. And you believed that memory was 'complete fact.' Memory is not a recorded video. Every time we recall something, we fill in parts of it. Sometimes what we wish had been there. Sometimes what we expected."
+
+Sage recalled the moment he had stood looking at the ridge in the forest. He had clearly felt a moment of doubt. But almost immediately, the conviction that "I already know" had buried that doubt.
+
+"I knew that I was certain. But I did not question that certainty."
+
+The Sage smiled gently.
+
+"That is precisely the core of it. You saw 'what you know.' But you did not try to see 'what you don't know.' The real forest is always more complex than the forest in your memory."
+
+Sage was quiet for a while. Then he asked softly:
+
+"Then what should I do? Is it dangerous both to believe and not to believe?"
+
+"Believe, and observe at the same time. You must know what you are assuming. What if, at the ridge, you had been able to ask yourself this: 'On what assumptions am I making this choice right now?'"
+
+Sage lifted his head. He felt freshly just how different a result that short question might have produced during those three days in the maze.
+
+"Is failure not shameful?" he asked.
+
+"When you are ashamed of failure, you cannot learn from it. Failure is the point where your schema collides with reality. That very point is where you can grow."
+
+That night Sage sat for a long time, retracing one by one every decision he had made in the forest. Where he had hesitated, where his confidence had overreached, what signs he had seen and ignored. It was a painful exercise, but strangely he began to feel lighter.
+
+By dawn he had realized: reflection is not blaming yourself. It is looking back at your own process of thinking.
+
+'''
+
+== Understanding the Concepts
+
+=== 1. Metacognition — "Thinking About Thinking"
+
+Metacognition is the ability to recognize and regulate one's own thought processes. The concept, established in the 1970s by psychologist John Flavell, goes beyond simply "what do I know" to the ability *to check for yourself how you know it and how far your knowledge extends*.
+
+Metacognition divides broadly into two parts.
+
+[cols="1,1,1", options="header"]
+|===
+| Component | Meaning | Example
+| *Metacognitive knowledge* | Understanding of one's own cognitive characteristics and limits | "I am strong with visual information but weak with numbers"
+| *Metacognitive regulation* | Planning, monitoring, and evaluating the learning process | "This approach doesn't seem to be working, so let me try something different"
+|===
+
+If Sage had asked himself *"On what assumptions am I making this choice right now?"* at the ridge, that would have been the moment metacognitive regulation came into operation.
+
+'''
+
+=== 2. The Schema Trap — When Knowledge Blinds You
+
+A schema is the cognitive framework we use to understand the world. Built on past experience, it allows rapid judgments in unfamiliar situations. But there is a trap here.
+
+[quote]
+____
+*Schema filters new information.*
+____
+
+We tend to readily accept information that is consistent with our existing schema, while unconsciously ignoring or distorting information that is inconsistent. The moment Sage chose "the most familiar direction" at the three-way ridge was exactly that. There was a signal of inconsistency (unfamiliar terrain), but the schema covered it over.
+
+This is also called *confirmation bias* — the tendency for attention to be pulled toward confirming what one already believes.
+
+'''
+
+=== 3. The Reconstruction of Memory — We Do Not "Play Back" Memories
+
+Memory is not a recording. According to the research of psychologist Elizabeth Loftus, every time we recall a memory, we *reconstruct it*. Missing parts are filled in unconsciously, and what is filled in is influenced by current expectations and beliefs.
+
+[source]
+----
+Actual experience → Encoding → Storage → Retrieval (reconstruction)
+                                                ↑
+                                  Current schema, expectations, emotions intervene
+----
+
+When Sage said "it looked similar to the ridge in my memory," his brain was not referring to the actual terrain — it was consulting *the terrain as reconstructed in his memory*. This is why metacognition is necessary. You must be able to ask whether your memory is complete.
+
+'''
+
+=== 4. How to Turn Failure Into Data for Growth
+
+Failure by itself is not learning. It becomes learning only when failure is *reflected upon*. Reflection is not self-blame — it is analysis.
+
+Three steps of effective reflection:
+
+. *What happened?* — Reconstruct the facts as objectively as possible.
+. *Why did I make that judgment?* — Draw out and examine the assumptions and expectations you held at the time.
+. *What will I do differently next time?* — Update the schema and create new checkpoints.
+
+What Sage did, sitting until dawn retracing his choices, was exactly this process. It is painful work — and that is precisely why it is powerful.
+
+'''
+
+=== Core Summary
+
+[cols="1,1", options="header"]
+|===
+| Concept | One-Line Summary
+| *Metacognition* | The second eye that watches your own thought process
+| *The schema trap* | The more you know, the easier it is to miss what you don't know
+| *The reconstruction of memory* | Memory is not playback — it is editing
+| *Reflection* | The process of converting failure into data
+|===
+
+[quote]
+____
+The most powerful question you can ask in the face of failure is this:
+*"On what assumptions am I standing right now?"*
+____

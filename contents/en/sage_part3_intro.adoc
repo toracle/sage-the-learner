@@ -1,0 +1,39 @@
+= Part 3: Collaboration and Communication
+
+== The Principles of Social Learning
+
+[quote]
+____
+"A map drawn alone shows only the paths you have seen. A map drawn together shows paths you never could have seen on your own."
+____
+
+'''
+
+One day the Sage made a strange suggestion to Sage.
+
+"Today, explore with someone else."
+
+Sage was taken aback at first. Up to now, learning had always been between the Sage and himself, or between himself and the forest. Having someone else involved seemed like it could only make things more complicated. _'Wouldn't it be faster alone?'_
+
+But the Sage said:
+
+"Once learning runs deep enough, it becomes difficult to go deeper on one's own. There are things that can only be seen with another person's eyes."
+
+'''
+
+Part 3 is the journey in which Sage for the first time learns to learn with others.
+
+Collaboration is not simply dividing up the work. It is a process in which two people each see the forest in their own way, each draw their own map, and then combine them. In that process, conflict arises and misunderstandings occur. But when it goes well, a map is born that neither person could ever have made alone.
+
+The same is true of communication. To convey what you know, you must understand what is inside the other person's mind. False beliefs, scattered attention, redundant explanations — all of these are barriers that block the flow of knowledge. This part learns how to deal with those barriers.
+
+'''
+
+[cols="1,3", options="header"]
+|===
+| Episode | Core Principle
+| Episode 14 | Different mental maps must be merged to form a complete map
+| Episode 15 | Redundant information does not help understanding — it blocks the flow
+| Episode 16 | Scattered attention must be gathered before deep understanding is possible
+| Episode 17 | Without finding the root of a misconception, correction cannot happen
+|===

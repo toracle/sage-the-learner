@@ -1,0 +1,147 @@
+= Episode 11: Reviving the Fragments of Memory
+
+[quote]
+____
+"Memory is not a photo album but a mosaic. The more pieces you gather, the clearer the picture becomes."
+____
+
+'''
+
+== Sage and the Old Man's Forest
+
+At the cabin at the entrance to the Mountain of Contemplation, Sage met an old man who had been staring into the air for a long while, leaning on a worn walking stick.
+
+"What are you looking for?"
+
+The old man shook his head wearily.
+
+"When I was young I used to go deep into the forest on the other side of this mountain often. I want to pass on what that forest looked like to my son, but my memory is too faint. I saw something there…" The old man let the words trail off. "I don't even know anymore whether I've forgotten it or whether it was never there."
+
+Sage sat beside the old man. A technique the Sage had taught him came to mind. _Memory doesn't disappear — it loses its way. All you need to do is open the path again._
+
+"Sir, may I ask you a few things? Let us trace the memories together."
+
+The old man nodded.
+
+"When was the last time you went to that forest? What was the weather like that day?"
+
+"Hmm… it was autumn. The wind was quite strong. The fallen leaves were red."
+
+"On that morning, walking from your house to the forest, what was your mood?"
+
+The old man's eyes shifted slightly. "I was excited. It was the first time in a long while I had set out alone."
+
+"When you first stepped into the forest, what was the first smell you noticed?"
+
+"…Damp earth. And a strangely sweet smell too. Strawberries, maybe." The old man murmured slowly.
+
+"What sounds were there?"
+
+"Birdsong. The sound of water flowing somewhere." The old man's voice came alive little by little. "Oh, that's right. There was a small spring beside a large rock. Covered in moss."
+
+Sage waited quietly.
+
+"Resting a moment by that spring…" The old man closed both eyes. "There was a tree with silver bark. A birch, it would have been. Under that tree, mushrooms were growing in a ring." The old man's voice grew clearer. "That's right — I had heard as a child that it was called a fairy ring. I wanted to tell my son that story."
+
+Sage said: "Very good. Now let's recall the forest in the order of *leaving* it. What was the last thing you saw? Let us trace our way back from there."
+
+"On the way out… there was a fallen pine at the entrance. Then past the path through those birch trees, around the rock by the spring…"
+
+Tracing it in reverse, the old man retrieved one by one the details he had missed when recalling it in order. The color of the moss on the surface of the rock, the sound of the spring water striking the stone, the ancient markings carved into the birch bark.
+
+After a while, the old man opened his eyes and looked at Sage.
+
+"I was sure I had forgotten it all. But the memory hadn't disappeared."
+
+Sage nodded. "Memory usually doesn't vanish altogether. It only loses its way out. Find the door again, and memory comes by itself."
+
+On the walk back to the cabin, Sage turned over the Sage's words. _When we feel we have 'forgotten' something, what is truly needed is not new memorization but a new path to the memory that is already there._
+
+'''
+
+== Concept: The Cognitive Interview (CI)
+
+=== Memory Is Not "Playback" But "Reconstruction"
+
+We tend to think of memory as a file stored like video footage. But brain science says differently. *Memory is newly assembled each time it is recalled.* Like rebuilding Lego pieces from scratch each time.
+
+Because of this, changing the *starting point* and *route* of recall can retrieve more fragments from the same event. The Cognitive Interview is a structured memory-recall technique built on exactly this principle.
+
+Developed in the 1990s by psychologists Ronald Fisher and Edward Geiselman for criminal investigation purposes, its principles apply to much broader contexts including learning, education, and personal retrospection.
+
+'''
+
+=== The Four Core Techniques of the Cognitive Interview
+
+==== 1. Context Reinstatement
+Recall as vividly as possible the *circumstances at the time* of the event. Draw on location, weather, time, emotional state, smells, sounds — all of it.
+
+[quote]
+____
+*Principle*: Since memory is stored together with specific context, restoring that context activates the connected memories along with it. This is called the *Encoding Specificity Principle*.
+____
+
+*Application example*: When lecture content is not coming back to you, first recall the classroom you were in, the seat you sat in, and how you felt that day.
+
+'''
+
+==== 2. Report Everything
+Report or write down even things that seem trivial or unrelated. Hold off on the judgment "this probably isn't important."
+
+[quote]
+____
+*Principle*: You don't know which fragment may be the connecting link to another memory. Seemingly trivial details can also become *cues* that trigger core memories.
+____
+
+*Application example*: When reviewing a complex problem-solving process, write out even the thoughts you had in the middle that you let slip away.
+
+'''
+
+==== 3. Recall in Reverse Temporal Order
+Recall the event not from the beginning but *from the end backwards*. Or start from a specific scene in the middle and expand forwards and backwards.
+
+[quote]
+____
+*Principle*: Our memories are often tied to the "narrative flow" of events. Changing the order reveals new details that were hidden by the existing flow. It also blocks *schema bias* — the tendency to predict what comes next from what came before.
+____
+
+*Application example*: When analyzing the causes of a project failure, tracing back from the final result often reveals intermediate problems that were normally overlooked.
+
+'''
+
+==== 4. Change Perspective
+Recall the event from *another person's* point of view, or from a different position.
+
+[quote]
+____
+*Principle*: The same event activates different information depending on the perspective. The more angles you approach it from, the richer the whole picture becomes.
+____
+
+*Application example*: When revisiting a team meeting, recall the scene not only from your own position but also from the viewpoints of other participants.
+
+'''
+
+=== Using the Cognitive Interview in Learning
+
+[cols="1,1", options="header"]
+|===
+| Situation | Application Method
+| Reviewing before an exam | Recall content after first imagining where and how you were when you learned it (context reinstatement)
+| Getting stuck on a problem | Draw out all related knowledge, including trivial items (report everything)
+| Organizing a concept | Trace logic backwards from the final conclusion to the premises (reverse recall)
+| Team retrospective | Reconstruct the process from another team member's perspective (change perspective)
+|===
+
+'''
+
+=== Core Summary
+
+* *Memory is reconstruction, not playback* — it is assembled anew each time it is recalled.
+* *The feeling of forgetting is often "having lost the way"* — a different route of approach can revive the memory.
+* *Changing context, detail, order, and perspective* can restore more information from the same event.
+* These techniques are not simply "memory training" — they are *strategies for retrieving knowledge that already exists*.
+
+[quote]
+____
+Episode 12 next looks at the cognitive mechanism behind suddenly flashing intuitive insight — the _'Aha!' moment_.
+____

@@ -1,0 +1,115 @@
+= Episode 16: The Art of Gathering Scattered Attention
+
+[quote]
+____
+"When the map and the explanation are in different places, the reader's mind is too busy building a bridge between them to have any spare room to learn the paths."
+____
+
+'''
+
+== Sage's Mapmaking Workshop
+
+The villagers came to Sage with a request.
+
+"Sage, you know the forest so well — could you make us a map that is easy to understand? One where we can see at a glance where the medicinal herbs are and which paths are dangerous?"
+
+Sage set to work with great enthusiasm. First he carefully drew the whole terrain of the forest on a large sheet of parchment. The winding river, the steep hills, the dense trees. The illustration alone was very precise.
+
+Then he wrote explanations on a separate sheet of parchment.
+
+_"Northern slope, point 3: colony of poisonous mushrooms, absolutely do not collect."_
+_"Eastern riverbank, point 7: wild mint habitat, best time to collect May–June."_
+_"Western pass, point 2: ground weakens in the rainy season, detour essential."_
+
+Sage contentedly spread the two sheets of parchment side by side. 'This should be perfect.'
+
+The villagers gathered one by one. Everyone's eyes were filled with anticipation at first. But before long, sighs began to leak out from here and there.
+
+"Sage, where is point 3? I keep looking at the map, then going back to the explanation sheet, then back to the map… my head is spinning."
+
+"I gave up. Switching back and forth between the two sheets, at some point I didn't even know what I was looking at anymore."
+
+Sage, embarrassed, went to the Sage.
+
+'''
+
+The Sage carefully examined both sheets and said:
+
+"Your map and your explanation are both excellent. The problem is that they are *separate*."
+
+"Is it wrong to keep them separate? The explanations were too long to fit on the map."
+
+The Sage shook his head.
+
+"Think about the inside of a person's mind. To find point 3, the eyes need to be looking at the map while simultaneously holding the content of the explanation sheet in memory. The work of *connecting those two* itself consumes an enormous amount of mental energy. 'This poisonous mushroom is here so I need to be careful' — that judgment hasn't even started yet."
+
+Sage blinked. "So… you're saying I should do the connecting work *in advance*?"
+
+"Exactly," the Sage smiled. "Instead of keeping the explanation outside the map, try attaching it *beside* the relevant location, or weaving it *into* the map itself. So the reader's eye can take in both the picture and the text in one place while staying in one place."
+
+Sage slapped his knee. And sat up through the night drawing the map again. He wrote a short warning beside the poisonous mushroom marking, wrote the collection season inside the mint habitat illustration, and wrote a one-line explanation along with a red caution line directly on top of the dangerous pass route.
+
+When the villagers unfolded the new map the next day, their expressions were different.
+
+"Oh! You can just tell at a glance."
+
+"It's so much easier when your eyes can get all the information in one place."
+
+'''
+
+== Understanding the Concept: The Split-Attention Effect
+
+=== Why Separated Information Hinders Understanding
+
+The reason Sage's first map failed was not that the content was wrong. It was because the information was *separated*.
+
+Cognitive psychologist John Sweller and colleagues identified the *split-attention effect* and explained it this way:
+
+[quote]
+____
+When a learner must *mentally integrate* two or more related information sources, that integration process itself consumes working memory resources. This consumption is extraneous cognitive load wasted on *searching and connecting* rather than actual learning.
+____
+
+Simply put, the brain has a limited amount of information it can process at once. The very act of going back and forth between the map and the explanation sheet nibbles away at this capacity, leaving no energy for "understanding and remembering the content."
+
+=== How to Solve It: The Principle of Spatial Contiguity
+
+The key strategy for reducing the split-attention effect is *physically integrating related information*.
+
+[cols="1,1", options="header"]
+|===
+| Problem Situation | Solution
+| Diagram and explanation are on different pages | Place explanation immediately beside or below the diagram
+| Legend is far from the diagram | Label directly on the relevant elements
+| Step-by-step instructions and examples are separated | Insert examples immediately beside each step
+| Formulas and variable explanations are written separately | Annotate within the formula or provide inline explanations nearby
+|===
+
+This principle applies not only to textbooks and instruction manuals but equally to code documentation, UI design, presentation slides, and email attachments.
+
+=== A Caution: When Integration Can Actually Be Harmful
+
+Opposite to the split-attention effect, there is also a trap called the *redundancy effect*. If you attach text that *simply repeats the picture's content* beside a picture that is already clear enough on its own, cognitive load actually increases. The reader must process both channels unnecessarily.
+
+Therefore the principle can be summarized as:
+
+* *Separated related information* → Integrate it (remove the split-attention effect)
+* *Information that is sufficient on its own* → Do not add redundancy (prevent the redundancy effect)
+
+=== Real-World Application Examples
+
+*Presentation slides*: Putting complex diagrams on screen and related explanation text on a separate slide means the audience wears itself out shuttling between memory and the current screen. Placing short labels directly beside each diagram element completes the understanding on one screen.
+
+*Code review and documentation*: Showing a code block and placing the explanation several paragraphs below causes the reader to lose context going up and down. Placing the explanation immediately below the code block, or as inline comments, is far more efficient.
+
+*Educational materials design*: If practice problems and the reference formulas they require are in different chapters, learners lose themselves searching for formulas. Providing the relevant formulas at the bottom of the problem sheet raises learning concentration.
+
+'''
+
+=== Core Summary
+
+[quote]
+____
+When a learner's eyes have to go back and forth between two places, comprehension gets lost somewhere in between. +
+*Related information: keep it close. Explanation: keep it beside its subject. Integration is the designer's task, not the reader's.*
+____

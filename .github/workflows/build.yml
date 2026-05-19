@@ -2,6 +2,7 @@ name: Build Book
 
 on:
   push:
+    branches: [main]
     tags:
       - 'v*'
   workflow_dispatch:
@@ -35,16 +36,23 @@ jobs:
           path: dist/
           retention-days: 30
 
+      - name: Rename PDFs for release
+        if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
+        run: |
+          mkdir -p release
+          cp dist/book.pdf      release/sage-the-learner-en.pdf
+          cp dist/ko/book.pdf   release/sage-the-learner-ko.pdf
+
       - name: Create Release
         if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
           name: "${{ github.ref_name }}"
           body: |
-            빌드: ${{ github.sha }}
+            Build: ${{ github.sha }}
           files: |
-            dist/book.html
-            dist/book.pdf
+            release/sage-the-learner-en.pdf
+            release/sage-the-learner-ko.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

@@ -1,0 +1,48 @@
+= Part 2: Expanding Knowledge
+
+== The Principles of Connection and Creation
+
+[quote]
+____
+"A single piece of knowledge is a stone. Knowledge that is connected becomes a bridge."
+____
+
+'''
+
+Passing through Part 1, Sage had changed.
+
+He still wandered, still did not know things, still made mistakes. But now he did not collapse when he wandered. He did not give up when he did not know, and when he was wrong, he asked why. His attitude toward learning had shifted.
+
+The Sage noticed.
+
+"Let us go to a different forest now."
+
+With those words, the two of them headed for a forest beyond the deep ravine. It was nothing like the first forest. There were no familiar trees, no familiar paths. The Sage spoke.
+
+"What do you do when you know nothing?"
+
+Sage thought for a moment.
+
+"…I look for something that resembles it."
+
+The Sage nodded.
+
+'''
+
+Part 2 is the process of learning that knowledge is not an island but a continent.
+
+When we understand a new concept, our brain actually connects it to what we already know. A good metaphor is a bridge to an unfamiliar world; analogy is the wings of problem-solving; and intuition is the lightning produced by a long chain of connections. And memory is not merely storage — it is the ability to retrieve what is needed when it is needed.
+
+In this part, Sage gains the ability to see more broadly. From knowing a single forest, to seeing the patterns among many forests.
+
+'''
+
+[cols="1,3", options="header"]
+|===
+| Episode | Core Principle
+| Episode 9 | Metaphor is a bridge connecting the unfamiliar to the familiar
+| Episode 10 | Analogy is the power to borrow solutions from other domains
+| Episode 11 | Memory is not storage but the practice of retrieval
+| Episode 12 | Intuition is a signal that compresses thousands of connections
+| Episode 13 | A single metaphor can connect many different domains
+|===
